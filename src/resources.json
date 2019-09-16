@@ -81,48 +81,7 @@
       "assignments"
     ]
   },
-  {
-    "featured": false,
-    "title": "Adding up: describing data and choosing a statistical test",
-    "description": "This resource will explore the methods and descriptives you can use to describe your data. It will also show you how to select appropriate statistical tests and find them in SPSS.",
-    "duration": "15 mins",
-    "format": "Interactive guide",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/statistics-describing-data/",
-    "tags": [
-      "planning",
-      "research skills",
-      "stats and data",
-      "assignments"
-    ]
-  },
-  {
-    "featured": false,
-    "title": "Adding up: introducing SPSS",
-    "description": "This resource explores some of the key features and interfaces of SPSS, which you can use to generate reports, charts, descriptive statistics and analysis.",
-    "duration": "15 minutes",
-    "format": "Interactive guide",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/spss/",
-    "tags": [
-      "planning",
-      "research skills",
-      "stats and data",
-      "assignments"
-    ]
-  },
-  {
-    "featured": false,
-    "title": "Adding up: introduction to statistics",
-    "description": "This resource will give you a basic introduction to statistical terminology, charts and data types. It will also give you advice on how to organise your data to make it easier to analyse and present.",
-    "duration": "15 minutes",
-    "format": "Interactive guide",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/introducing-statistics/",
-    "tags": [
-      "planning",
-      "stats and data",
-      "research skills"
-    ]
-  },
-  {
+   {
     "featured": false,
     "title": "Being critical: thinking, reading and writing critically",
     "description": "This resource explores how to be critical, highlighting practical strategies you can use in your academic reading and writing that will enable you to demonstrate critical analysis in your assignments.",
