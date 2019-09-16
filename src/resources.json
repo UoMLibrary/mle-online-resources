@@ -67,21 +67,7 @@
       "study strategies"
     ]
   },
-  {
-    "featured": true,
-    "title": "Start to finish: Statistics",
-    "description": "Do you need to analyse a set of data and produce some statistics? You do not need to be an expert to produce a statistical report. These resources will give you a basic introduction to statistics and introduce you to producing reports in SPSS.",
-    "duration": "",
-    "format": "Interactive guide",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/statistics/",
-    "tags": [
-      "organising",
-      "research skills",
-      "stats and data",
-      "assignments"
-    ]
-  },
-   {
+    {
     "featured": false,
     "title": "Being critical: thinking, reading and writing critically",
     "description": "This resource explores how to be critical, highlighting practical strategies you can use in your academic reading and writing that will enable you to demonstrate critical analysis in your assignments.",
