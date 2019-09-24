@@ -1,6 +1,6 @@
 [
   {
-    "featured": true,
+    "featured": false,
     "title": "Start to finish: Dissertations",
     "description": "These resources will take you through how to plan, research and choose a topic for your dissertation. They will help you to produce a well planned, researched dissertation that will hold your interest and the interest of your reader.",
     "duration": "",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "featured": true,
+    "featured": false,
     "title": "Start to finish: Essay writing",
     "description": "This set of resources will take you through the writing process from start to finish and help you to produce a well-structured, coherent piece of work that answers the question, evidences your own analysis and is easy for your reader to follow.",
     "duration": "",
@@ -26,7 +26,7 @@
     ]
   },
    {
-    "featured": true,
+    "featured": false,
     "title": "Start to finish: Present like a pro",
     "description": "These resources will take you through how to plan, design and deliver presentations. They will help you to produce a well-structured, coherent presentation that fulfills your brief, is visually appealing and is engaging for your audience.",
     "duration": "",
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "featured": true,
+    "featured": false,
     "title": "Start to finish: Referencing",
     "description": "This set of resources will show you how to reference different types of sources in your assignments. It will help you to cite, paraphrase and manage your references using tools such as EndNote, Endnote online and Mendeley.",
     "duration": "",
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "featured": true,
+    "featured": false,
     "title": "Start to finish: Revision",
     "description": "This set of resources will take you through the revision process from start to finish. It will help you to prioritise your revision effectively.",
     "duration": "",
