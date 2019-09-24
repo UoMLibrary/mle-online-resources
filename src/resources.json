@@ -51,22 +51,7 @@
       "presentations"
     ]
   },
-  {
-    "featured": false,
-    "title": "Start to finish: Referencing",
-    "description": "This set of resources will show you how to reference different types of sources in your assignments. It will help you to cite, paraphrase and manage your references using tools such as EndNote, Endnote online and Mendeley.",
-    "duration": "",
-    "format": "Interactive guide",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/referencing/",
-    "tags": [
-      "assignments",
-      "planning",
-      "organising",
-      "referencing",
-      "writing"
-    ]
-  },
-  {
+    {
     "featured": false,
     "title": "Start to finish: Revision",
     "description": "This set of resources will take you through the revision process from start to finish. It will help you to prioritise your revision effectively.",
