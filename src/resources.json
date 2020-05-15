@@ -59,7 +59,6 @@
     "format": "Interactive guide",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/revision/",
     "tags": [
-      "exam extra",
       "planning",
       "revising",
       "study strategies"
@@ -325,7 +324,7 @@
     "format": "Interactive guide",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/counselling/procrastination/",
     "tags": [
-      "exam extra",
+      ,
       "revising",
       "wellbeing"
     ]
@@ -338,7 +337,6 @@
     "format": "Interactive guide",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/counselling/procrastination-strategies/",
     "tags": [
-      "exam extra",
       "revising",
       "wellbeing"
     ]
@@ -351,8 +349,7 @@
     "format": "Interactive guide",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/counselling/procrastination-cycle",
     "tags": [
-      "exam extra",
-      "revising",
+     "revising",
       "wellbeing"
     ]
   },
@@ -392,8 +389,7 @@
     "format": "Audio",
     "link": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F294406254&auto_play=false&show_artwork=true&visual=true&origin=twitter",
     "tags": [
-      "exam extra",
-      "planning",
+     "planning",
       "revising",
       "study strategies"
     ]
@@ -406,8 +402,7 @@
     "format": "Audio",
     "link": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F294406497&auto_play=false&show_artwork=true&visual=true&origin=twitter",
     "tags": [
-      "exam extra",
-      "revising",
+     "revising",
       "study strategies",
       "wellbeing"
     ]
