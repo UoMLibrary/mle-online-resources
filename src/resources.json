@@ -13,20 +13,7 @@
     ]
   },
   {
-    "featured": false,
-    "title": "Start to finish: Dissertations",
-    "description": "These resources will take you through how to plan, research and choose a topic for your dissertation. They will help you to produce a well planned, researched dissertation that will hold your interest and the interest of your reader.",
-    "duration": "",
-    "format": "Interactive guide",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/dissertations/",
-    "tags": [
-      "organising",
-      "planning",
-      "searching"
-    ]
-  },
-  {
-    "featured": false,
+    "featured": true,
     "title": "Start to finish: Writing",
     "description": "This set of resources will take you through the writing process from start to finish and help you to produce a well-structured, coherent piece of work that answers the question, evidences your own analysis and is easy for your reader to follow.",
     "duration": "",
@@ -38,8 +25,21 @@
       "writing"
     ]
   },
+  {
+    "featured": true,
+    "title": "Start to finish: Dissertations",
+    "description": "These resources will take you through how to plan, research and choose a topic for your dissertation. They will help you to produce a well planned, researched dissertation that will hold your interest and the interest of your reader.",
+    "duration": "",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/dissertations/",
+    "tags": [
+      "organising",
+      "planning",
+      "searching"
+    ]
+  },
    {
-    "featured": false,
+    "featured": true,
     "title": "Start to finish: Present like a pro",
     "description": "These resources will take you through how to plan, design and deliver presentations. They will help you to produce a well-structured, coherent presentation that fulfills your brief, is visually appealing and is engaging for your audience.",
     "duration": "",
@@ -52,7 +52,7 @@
     ]
   },
     {
-    "featured": false,
+    "featured": true,
     "title": "Start to finish: Revision",
     "description": "This set of resources will take you through the revision process from start to finish. It will help you to prioritise your revision effectively.",
     "duration": "",
@@ -62,6 +62,21 @@
       "planning",
       "revising",
       "study strategies"
+    ]
+  },
+    {
+    "featured": false,
+    "title": "Avoiding plagiarism",
+    "description": "This resource explores some of the issues surrounding academic integrity, providing you with techniques to help you to avoid plagiarism when referring to the work of others and to add your own voice into your work.",
+    "duration": "20 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/avoiding-plagiarism",
+    "tags": [
+      "planning",
+      "referencing",
+      "assignments",
+      "study strategies",
+      "writing"
     ]
   },
     {
@@ -350,21 +365,6 @@
     "tags": [
      "revising",
       "wellbeing"
-    ]
-  },
-  {
-    "featured": false,
-    "title": "Avoiding plagiarism",
-    "description": "This resource explores some of the issues surrounding academic integrity, providing you with techniques to help you to avoid plagiarism when referring to the work of others and to add your own voice into your work.",
-    "duration": "20 minutes",
-    "format": "Interactive guide",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/avoiding-plagiarism",
-    "tags": [
-      "planning",
-      "referencing",
-      "assignments",
-      "study strategies",
-      "writing"
     ]
   },
   {
