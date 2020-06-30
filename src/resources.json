@@ -12,6 +12,19 @@
       "writing"
     ]
   },
+    {
+    "featured": true,
+    "title": "Start to finish: Searching",
+    "description": "This set of resources will take you through the searching process from start to finish and help you to high quality, relevant sources for use in your work.",
+    "duration": "",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/searching/",
+    "tags": [
+      "assignments",
+	  "planning",
+      "searching"
+    ]
+  },
   {
     "featured": true,
     "title": "Start to finish: Writing",
@@ -59,8 +72,7 @@
     "format": "Interactive guide",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/presentations/",
     "tags": [
-      "organising",
-      "planning",
+      "group work",
       "presentations"
     ]
   },
@@ -74,7 +86,6 @@
     "tags": [
       "planning",
       "revising",
-      "study strategies"
     ]
   },
     {
@@ -88,7 +99,6 @@
       "planning",
       "referencing",
       "assignments",
-      "study strategies",
       "writing"
     ]
   },
@@ -162,7 +172,6 @@
     "tags": [
       "planning",
       "referencing",
-      "study strategies"
     ]
   },
   {
@@ -233,6 +242,7 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/evaluating-sources",
     "tags": [
       "being critical",
+	  "searching",
       "assignments"
     ]
   },
@@ -245,7 +255,6 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/understanding-task/",
     "tags": [
       "assignments",
-      "group work",
       "planning",
       "writing"
     ]
@@ -261,8 +270,7 @@
       "group work",
       "organising",
       "presentations",
-      "writing",
-      "self-awareness"
+      "assignments"
     ]
   },
   {
@@ -287,7 +295,8 @@
     "format": "Interactive guide",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/information-types",
     "tags": [
-      "being critical",
+      "searching",
+	  "being critical",
       "assignments"
     ]
   },
@@ -312,7 +321,6 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/mindset/",
     "tags": [
       "revising",
-      "self-awareness",
       "wellbeing"
     ]
   },
@@ -337,10 +345,7 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/note-making/",
     "tags": [
       "organising",
-      "planning",
-      "searching",
       "revising",
-      "study strategies",
       "writing"
     ]
   },
@@ -353,6 +358,7 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/counselling/procrastination/",
     "tags": [
       "revising",
+	  "assignments",
       "wellbeing"
     ]
   },
@@ -365,6 +371,7 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/counselling/procrastination-strategies/",
     "tags": [
       "revising",
+	  "assignments",
       "wellbeing"
     ]
   },
@@ -377,6 +384,7 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/counselling/procrastination-cycle",
     "tags": [
      "revising",
+	 "assignments",
       "wellbeing"
     ]
   },
@@ -389,7 +397,7 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/planning-search",
     "tags": [
       "planning",
-       "searching",
+      "searching",
       "assignments"
     ]
   },
@@ -403,7 +411,6 @@
     "tags": [
      "planning",
       "revising",
-      "study strategies"
     ]
   },
   {
@@ -415,7 +422,6 @@
     "link": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F294406497&auto_play=false&show_artwork=true&visual=true&origin=twitter",
     "tags": [
      "revising",
-      "study strategies",
       "wellbeing"
     ]
   },
@@ -427,8 +433,7 @@
     "format": "Interactive guide",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/presentations/planning/",
     "tags": [
-      "organising",
-      "planning",
+      "group work",
       "presentations"
     ]
   },
@@ -440,8 +445,7 @@
     "format": "Interactive guide",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/presentations/delivery/",
     "tags": [
-      "organising",
-      "planning",
+      "group work",
       "presentations"
     ]
   },
@@ -453,8 +457,7 @@
     "format": "Interactive guide",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/presentations/design/",
     "tags": [
-      "organising",
-      "planning",
+      "group work",
       "presentations"
     ]
   },
@@ -468,7 +471,6 @@
     "tags": [
       "planning",
       "referencing",
-      "searching",
       "writing"
     ]
   },
@@ -480,8 +482,7 @@
     "format": "Interactive guide",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/revision-strategies/",
     "tags": [
-      "organising",
-      "revising"
+    "revising"
     ]
   },
   {
@@ -507,8 +508,7 @@
     "tags": [
       "searching",
        "assignments",
-      "planning",
-      "organising"
+      "planning"
     ]
   },
   {
