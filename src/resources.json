@@ -304,6 +304,23 @@
       "assignments"
     ]
   },
+	 {
+    "featured": false,
+    "title": "Making the most of academic feedback",
+    "description": "Throughout your academic career you will receive a considerable amount of feedback from your tutors and markers. The feedback you receive is one of the most important interactions you will have not only with your tutor, but also with your learning. We have put together this series of resources to help you understand, analyse and act on the feedback you receive.",
+    "duration": "1 hour",
+    "format": "Interactive guide",
+    "title": "https://medium.com/my-learning-essentials/making-the-most-of-academic-feedback-2acb6ee0abdb",
+    "link": "",
+    "tags": [
+      "writing",
+      "self-awareness",
+      "wellbeing",
+	"being critical",
+      "assignments"
+    ]
+  },
+
   {
     "featured": false,
     "title": "Knowing where to look: your search toolkit",
@@ -327,18 +344,6 @@
       "revising",
       "self-awareness",
       "wellbeing"
-    ]
-  },
-  {
-    "featured": false,
-    "title": "Writing your essay",
-    "description": "This resource explores the purpose and process of writing an essay, highlighting how you can ensure that your themes run throughout your work, and that every section of your essay supports your argument to help your reader to understand your ideas.",
-    "duration": "15 minutes",
-    "format": "Interactive guide",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/writing-essay/",
-    "tags": [
-      "assignments",
-      "writing"
     ]
   },
   {
@@ -560,6 +565,18 @@
       "assignments",
       "being critical",
       "planning",
+      "writing"
+    ]
+  },
+	  {
+    "featured": false,
+    "title": "Writing your essay",
+    "description": "This resource explores the purpose and process of writing an essay, highlighting how you can ensure that your themes run throughout your work, and that every section of your essay supports your argument to help your reader to understand your ideas.",
+    "duration": "15 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/writing-essay/",
+    "tags": [
+      "assignments",
       "writing"
     ]
   }
