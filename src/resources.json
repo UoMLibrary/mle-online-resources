@@ -304,24 +304,7 @@
       "assignments"
     ]
   },
-	 {
-    "featured": false,
-    "title": "Making the most of academic feedback",
-    "description": "Throughout your academic career you will receive a considerable amount of feedback from your tutors and markers. The feedback you receive is one of the most important interactions you will have not only with your tutor, but also with your learning. We have put together this series of resources to help you understand, analyse and act on the feedback you receive.",
-    "duration": "1 hour",
-    "format": "Interactive guide",
-    "title": "https://medium.com/my-learning-essentials/making-the-most-of-academic-feedback-2acb6ee0abdb",
-    "link": "",
-    "tags": [
-      "writing",
-      "self-awareness",
-      "wellbeing",
-	"being critical",
-      "assignments"
-    ]
-  },
-
-  {
+ {
     "featured": false,
     "title": "Knowing where to look: your search toolkit",
     "description": "This resource explores Google, Google Scholar, subject databases and Library Search, highlighting their strengths and weaknesses to enable you to make an informed choice when selecting where to search for information.",
@@ -330,6 +313,21 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/search-toolkit",
     "tags": [
       "searching",
+      "assignments"
+    ]
+  },
+	 {
+    "featured": false,
+    "title": "Making the most of academic feedback",
+    "description": "Throughout your academic career you will receive a considerable amount of feedback from your tutors and markers. The feedback you receive is one of the most important interactions you will have not only with your tutor, but also with your learning. We have put together this series of resources to help you understand, analyse and act on the feedback you receive.",
+    "duration": "1 hour",
+    "format": "Interactive guide",
+    "link": "https://medium.com/my-learning-essentials/making-the-most-of-academic-feedback-2acb6ee0abdb",
+    "tags": [
+      "writing",
+      "self-awareness",
+      "wellbeing",
+	"being critical",
       "assignments"
     ]
   },
