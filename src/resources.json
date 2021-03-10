@@ -481,14 +481,12 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/report-writing/",
     "tags": [
       "planning",
-      "referencing",
-      "searching",
       "writing"
     ]
   },
   {
     "featured": false,
-    "title": "Revision  strategies: managing your revision successfully",
+    "title": "Strategies for effective revision",
     "description": "This resource will help you to develop strategies you can use to manage your revision effectively by creating a revision plan.",
     "duration": "20",
     "format": "Interactive guide",
@@ -520,7 +518,7 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/introducing-databases",
     "tags": [
       "searching",
-       "assignments",
+      "assignments",
       "planning",
       "organising"
     ]
