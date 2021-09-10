@@ -564,5 +564,17 @@
       "assignments",
       "writing"
     ]
-  }
+  },
+	{
+"featured": false,
+    "title": "Start to finish: Develop your digital capabilities",
+    "description": "This set of resources will help you to develop in areas such as digital communication, learning, and wellbeing, which can be useful in your studies and in the future. For Manchester students, it will also introduce you to a tool to help you understand and explore your digital capabilities.",
+    "duration": "",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/digicap/",
+    "tags": [
+      "my future"
+    ]
+
+	}
 ]
