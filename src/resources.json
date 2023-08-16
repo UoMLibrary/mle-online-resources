@@ -24,20 +24,7 @@
       "get started"
     ]
   },
-  {
-    "featured": true,
-    "title": "Start to finish: Referencing",
-    "description": "This set of resources will show you how to reference different types of sources in your assignments. It will help you to cite, paraphrase and manage your references using tools such as EndNote, Endnote online and Mendeley.",
-    "duration": "",
-    "format": "Interactive guide",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/sls/packages/referencing/",
-    "tags": [
-      "assignments",
-      "referencing",
-      "writing"
-    ]
-  },
-	 {
+	{
     "featured": true,
     "title": "Library Support for writing",
     "description": "This guide links to all writing support provided by the Library including workshops, interactive guides, and strategies to help you overcome challenges such as writers block. There is also information about 
@@ -45,6 +32,19 @@
     "duration": "",
     "format": "Interactive guide",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/writing/",
+    "tags": [
+      "assignments",
+      "referencing",
+      "writing"
+    ]
+  },
+  {
+    "featured": true,
+    "title": "Start to finish: Referencing",
+    "description": "This set of resources will show you how to reference different types of sources in your assignments. It will help you to cite, paraphrase and manage your references using tools such as EndNote, Endnote online and Mendeley.",
+    "duration": "",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/sls/packages/referencing/",
     "tags": [
       "assignments",
       "referencing",
