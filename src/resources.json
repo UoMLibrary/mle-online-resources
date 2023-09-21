@@ -84,9 +84,9 @@
      "format": "Interactive guide",
      "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/packages/dissertations/",
      "tags": [
-       "organising",
+     "dissertations",
      "writing",
-       "planning",
+    "planning",
        "searching"
      ]
    },
@@ -163,6 +163,7 @@
      "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/proofreading/",
      "tags": [
        "assignments",
+          "dissertations",
        "writing"
      ]
    },
@@ -175,6 +176,7 @@
      "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/introducing-referencing",
      "tags": [
        "referencing",
+          "dissertations",
        "writing"
      ]
    },
@@ -187,6 +189,7 @@
      "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/dissertation-topic/",
      "tags": [
        "organising",
+    "dissertations",
        "planning",
        "searching"
      ]
@@ -200,6 +203,7 @@
      "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/dissertation-planning/",
      "tags": [
        "planning",
+        "dissertations",
        "referencing",
        "study strategies"
      ]
@@ -212,7 +216,7 @@
      "format": "Interactive guide",
      "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/lit-review/",
      "tags": [
-       "organising",
+        "dissertations",
        "planning",
        "searching",
        "assignments",
