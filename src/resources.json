@@ -127,6 +127,19 @@
        "my future"
      ]
    },
+   {
+    "featured": false,
+    "title": "Achieving your academic goals",
+    "description": "This resource will encourage you to consider your long-term academic goals by putting your studies into the broader context of your continued personal development.It will help you to identify and prioritise the steps you need to take in order to achieve these goals.",
+    "duration": "15 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/goal-setting/",
+    "tags": [
+      "organising",
+      "planning",
+      "self-awareness"
+    ]
+  },
      {
      "featured": false,
      "title": "Avoiding plagiarism",
@@ -142,87 +155,72 @@
        "writing"
      ]
    },
-     {
-     "featured": false,
-     "title": "Thinking, reading and writing critically",
-     "description": "This resource explores how to be critical, highlighting practical strategies you can use in your academic reading and writing that will enable you to demonstrate critical analysis in your assignments.",
-     "duration": "15 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/being-critical/",
-     "tags": [
-       "being critical",
-       "writing"
-     ]
-   },
    {
-     "featured": false,
-     "title": "Proofreading your writing",
-     "description": "This resource explores three vital elements to review when proofreading your work - flow, clarity and accuracy - and gives you a chance to learn about and apply some techniques to ensure that you check your work properly.",
-     "duration": "15 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/proofreading/",
-     "tags": [
-       "assignments",
-          "dissertations",
-       "writing"
-     ]
-   },
+    "featured": false,
+    "title": "Choosing your dissertation topic",
+    "description": "This resource focuses on choosing a topic for your dissertation.It will take you through the key elements of the early stages of your dissertation such as writing your research question and the objectives for achieving it.",
+    "duration": "20 mins",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/dissertation-topic/",
+    "tags": [
+      "organising",
+   "dissertations",
+      "planning",
+      "searching"
+    ]
+  },
    {
-     "featured": false,
-     "title": "Referring to other people's ideas in your work",
-     "description": "This resource explores the principles behind referencing, highlighting why it is good academic practice. You will also explore how you can use references as evidence for your argument and how to differentiate the ideas of others from your own voice.",
-     "duration": "15 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/referring-to-other-peoples-ideas-in-your-work/",
-     "tags": [
-       "referencing",
-          "dissertations",
-       "writing"
-     ]
-   },
-    {
-     "featured": false,
-     "title": "Choosing your dissertation topic",
-     "description": "This resource focuses on choosing a topic for your dissertation.It will take you through the key elements of the early stages of your dissertation such as writing your research question and the objectives for achieving it.",
-     "duration": "20 mins",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/dissertation-topic/",
-     "tags": [
-       "organising",
-    "dissertations",
-       "planning",
-       "searching"
-     ]
-   },
-   {
-     "featured": false,
-     "title": "Planning your dissertation",
-     "description": "This resource will highlight some of the key stages in planning to write your dissertation. It will also highlight some useful tools to help you along the way.",
-     "duration": "15 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/dissertation-planning/",
-     "tags": [
-       "planning",
-        "dissertations",
-       "referencing",
-       "study strategies"
-     ]
-   },
-   {
-     "featured": false,
-     "title": "Getting started with literature reviews",
-     "description": "This resource will give you an introduction to literature reviews. It will also give you advice on what a good literature should include, and how to prepare for writing your literature review.",
-     "duration": "15 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/lit-review/",
-     "tags": [
-        "dissertations",
-       "planning",
-       "searching",
-       "assignments",
-       "writing"
-     ]
-   },
+    "featured": false,
+    "title": "Developing argument within your writing",
+    "description": "This resource outlines a five-step technique you can use to help you to identify what your main arguments are, and to organise your ideas into a coherent structure.",
+    "duration": "15 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/developing-argument/",
+    "tags": [
+      "assignments",
+      "being critical",
+      "planning",
+      "writing"
+    ]
+  },
+  {
+    "featured": false,
+    "title": "Delivering your presentation",
+    "description": "In this resource we will explore what makes a good presenter and how can you use this to become a more confident when presenting. These techniques will enable you to deliver your presentations in a way that will make your audience sit up and take notice!",
+    "duration": "20 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/presentations/delivery/",
+    "tags": [
+      "organising",
+      "planning",
+      "presentations"
+    ]
+  },
+  {
+    "featured": false,
+    "title": "Designing your presentation",
+    "description": "This resource outlines different visual tools you can utilise to create visual aids for your presentation. It explores the types of visual aids you can use and what to display on screen. It will give you some inspiration you can use to design your own slides.",
+    "duration": "20 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/presentations/design/",
+    "tags": [
+      "organising",
+      "planning",
+      "presentations"
+    ]
+  },
+  {
+    "featured": false,
+    "title": "Evaluating sources of information",
+    "description": "This resource explores the process of evaluating the sources you find to ensure they are relevant and quality assured, equipping you with the skills you need to identify high-quality information to use in your academic work.",
+    "duration": "20 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/evaluating-sources",
+    "tags": [
+      "being critical",
+      "assignments"
+    ]
+  },
    {
      "featured": false,
      "title": "Finding a job: CV structure and presentation",
@@ -268,31 +266,58 @@
      ]
    },
    {
+    "featured": false,
+    "title": "Getting started with report writing",
+    "description": "This resource explores key elements of producing a written report. Including, structure, purpose, language and referencing; It highlights important considerations to help you write clear and concise reports.",
+    "duration": "30 mins",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/report-writing/",
+    "tags": [
+      "planning",
+      "writing"
+    ]
+  },
+      {
      "featured": false,
-     "title": "Evaluating sources of information",
-     "description": "This resource explores the process of evaluating the sources you find to ensure they are relevant and quality assured, equipping you with the skills you need to identify high-quality information to use in your academic work.",
-     "duration": "20 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/evaluating-sources",
-     "tags": [
-       "being critical",
-       "assignments"
-     ]
-   },
-   {
-     "featured": false,
-     "title": "Understanding your task",
-     "description": "This resource takes you through the process of analysing your assignment task to ensure that you're clear about what you're being asked to do, giving you some useful techniques to ensure that your work remains focused on directly addressing the question at hand.",
+     "title": "Getting started with literature reviews",
+     "description": "This resource will give you an introduction to literature reviews. It will also give you advice on what a good literature should include, and how to prepare for writing your literature review.",
      "duration": "15 minutes",
      "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/understanding-task/",
+     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/lit-review/",
      "tags": [
-       "assignments",
-       "group work",
+        "dissertations",
        "planning",
+       "searching",
+       "assignments",
        "writing"
      ]
    },
+   {
+    "featured": false,
+    "title": "Getting started with search tools",
+    "description": "This resource explores Google, Google Scholar, subject databases and Library Search, highlighting their strengths and weaknesses to enable you to make an informed choice when selecting where to search for information.",
+    "duration": "15 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/search-toolkit",
+    "tags": [
+      "searching",
+      "assignments"
+    ]
+  },
+  {
+    "featured": false,
+    "title": "Getting started with subject databases",
+    "description": "This resource explores some of the key features of subject databases, demonstrating that while they can initially appear daunting and complicated, they can be as easy to use as any online shopping site.",
+    "duration": "10 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/introducing-databases",
+    "tags": [
+      "searching",
+      "assignments",
+      "planning",
+      "organising"
+    ]
+  },
      {
      "featured": false,
      "title": "Group work",
@@ -306,31 +331,6 @@
        "presentations",
        "writing",
        "self-awareness"
-     ]
-   },
-   {
-     "featured": false,
-     "title": "Using Special Collections in your work",
-     "description": "This resource will introduce you to what special collections are, their importance, and how we can use critical analysis to get the most from them",
-     "duration": "15 minutes",
-     "format": "Interactive guide",
-     "link": "https://medium.com/my-learning-essentials/using-special-collections-in-your-work-6a90a2da7155",
-     "tags": [
-       "assignments",
-       "being critical",
-       "searching"
-     ]
-   },
-  {
-     "featured": false,
-     "title": "Getting started with search tools",
-     "description": "This resource explores Google, Google Scholar, subject databases and Library Search, highlighting their strengths and weaknesses to enable you to make an informed choice when selecting where to search for information.",
-     "duration": "15 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/search-toolkit",
-     "tags": [
-       "searching",
-       "assignments"
      ]
    },
       {
@@ -347,20 +347,6 @@
        "wellbeing",
      "being critical",
        "assignments"
-     ]
-   },
-   {
-     "featured": false,
-     "title": "Strategies for effective note making",
-     "description": "This resource looks at the purposes and contexts in which you make notes. It also provides an overview of different note-making techniques and which purpose theses techniques are most effective for.",
-     "duration": "15 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/note-making/",
-     "tags": [
-       "organising",
-       "revising",
-       "study strategies",
-       "writing"
      ]
    },
    {
@@ -412,32 +398,20 @@
        "assignments"
      ]
    },
-       {
-     "featured": false,
-     "title": "Podcast: 12 tips for successful revision",
-     "description": "",
-     "duration": "7 mins",
-     "format": "Audio",
-     "link": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F294406254&auto_play=false&show_artwork=true&visual=true&origin=twitter",
-     "tags": [
-      "planning",
-       "revising",
-       "study strategies"
-     ]
-   },
    {
-     "featured": false,
-     "title": "Podcast: Exam extra revision tips and resources",
-     "description": "",
-     "duration": "7 mins",
-     "format": "Audio",
-     "link": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F294406497&auto_play=false&show_artwork=true&visual=true&origin=twitter",
-     "tags": [
-      "revising",
-       "study strategies",
-       "wellbeing"
-     ]
-   },
+    "featured": false,
+    "title": "Planning your dissertation",
+    "description": "This resource will highlight some of the key stages in planning to write your dissertation. It will also highlight some useful tools to help you along the way.",
+    "duration": "15 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/dissertation-planning/",
+    "tags": [
+      "planning",
+       "dissertations",
+      "referencing",
+      "study strategies"
+    ]
+  },
    {
      "featured": false,
      "title": "Planning your presentation",
@@ -452,44 +426,32 @@
      ]
    },
    {
-     "featured": false,
-     "title": "Delivering your presentation",
-     "description": "In this resource we will explore what makes a good presenter and how can you use this to become a more confident when presenting. These techniques will enable you to deliver your presentations in a way that will make your audience sit up and take notice!",
-     "duration": "20 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/presentations/delivery/",
-     "tags": [
-       "organising",
-       "planning",
-       "presentations"
-     ]
-   },
-   {
-     "featured": false,
-     "title": "Designing your presentation",
-     "description": "This resource outlines different visual tools you can utilise to create visual aids for your presentation. It explores the types of visual aids you can use and what to display on screen. It will give you some inspiration you can use to design your own slides.",
-     "duration": "20 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/presentations/design/",
-     "tags": [
-       "organising",
-       "planning",
-       "presentations"
-     ]
-   },
-   {
-     "featured": false,
-     "title": "Getting started with report writing",
-     "description": "This resource explores key elements of producing a written report. Including, structure, purpose, language and referencing; It highlights important considerations to help you write clear and concise reports.",
-     "duration": "30 mins",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/report-writing/",
-     "tags": [
-       "planning",
-       "writing"
-     ]
-   },
-   {
+    "featured": false,
+    "title": "Proofreading your writing",
+    "description": "This resource explores three vital elements to review when proofreading your work - flow, clarity and accuracy - and gives you a chance to learn about and apply some techniques to ensure that you check your work properly.",
+    "duration": "15 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/proofreading/",
+    "tags": [
+      "assignments",
+         "dissertations",
+      "writing"
+    ]
+  },
+  {
+    "featured": false,
+    "title": "Referring to other people's ideas in your work",
+    "description": "This resource explores the principles behind referencing, highlighting why it is good academic practice. You will also explore how you can use references as evidence for your argument and how to differentiate the ideas of others from your own voice.",
+    "duration": "15 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/referring-to-other-peoples-ideas-in-your-work/",
+    "tags": [
+      "referencing",
+         "dissertations",
+      "writing"
+    ]
+  },
+      {
      "featured": false,
      "title": "Revision strategies",
      "description": "This resource will help you to develop strategies you can use to manage your revision effectively by creating a revision plan.",
@@ -501,6 +463,32 @@
        "revising"
      ]
    },
+   {
+    "featured": false,
+    "title": "Strategies for effective note making",
+    "description": "This resource looks at the purposes and contexts in which you make notes. It also provides an overview of different note-making techniques and which purpose theses techniques are most effective for.",
+    "duration": "15 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/note-making/",
+    "tags": [
+      "organising",
+      "revising",
+      "study strategies",
+      "writing"
+    ]
+  },
+   {
+    "featured": false,
+    "title": "Thinking, reading and writing critically",
+    "description": "This resource explores how to be critical, highlighting practical strategies you can use in your academic reading and writing that will enable you to demonstrate critical analysis in your assignments.",
+    "duration": "15 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/being-critical/",
+    "tags": [
+      "being critical",
+      "writing"
+    ]
+  },
    {
      "featured": false,
      "title": "Using operators within your search",
@@ -515,46 +503,32 @@
      ]
    },
    {
-     "featured": false,
-     "title": "Getting started with subject databases",
-     "description": "This resource explores some of the key features of subject databases, demonstrating that while they can initially appear daunting and complicated, they can be as easy to use as any online shopping site.",
-     "duration": "10 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/introducing-databases",
-     "tags": [
-       "searching",
-       "assignments",
-       "planning",
-       "organising"
-     ]
-   },
-   {
-     "featured": false,
-     "title": "Achieving your academic goals",
-     "description": "This resource will encourage you to consider your long-term academic goals by putting your studies into the broader context of your continued personal development.It will help you to identify and prioritise the steps you need to take in order to achieve these goals.",
-     "duration": "15 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/goal-setting/",
-     "tags": [
-       "organising",
-       "planning",
-       "self-awareness"
-     ]
-   },
-   {
-     "featured": false,
-     "title": "Developing argument within your writing",
-     "description": "This resource outlines a five-step technique you can use to help you to identify what your main arguments are, and to organise your ideas into a coherent structure.",
-     "duration": "15 minutes",
-     "format": "Interactive guide",
-     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/developing-argument/",
-     "tags": [
-       "assignments",
-       "being critical",
-       "planning",
-       "writing"
-     ]
-   },
+    "featured": false,
+    "title": "Understanding your task",
+    "description": "This resource takes you through the process of analysing your assignment task to ensure that you're clear about what you're being asked to do, giving you some useful techniques to ensure that your work remains focused on directly addressing the question at hand.",
+    "duration": "15 minutes",
+    "format": "Interactive guide",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mle/understanding-task/",
+    "tags": [
+      "assignments",
+      "group work",
+      "planning",
+      "writing"
+    ]
+  },
+  {
+    "featured": false,
+    "title": "Using Special Collections in your work",
+    "description": "This resource will introduce you to what special collections are, their importance, and how we can use critical analysis to get the most from them",
+    "duration": "15 minutes",
+    "format": "Interactive guide",
+    "link": "https://medium.com/my-learning-essentials/using-special-collections-in-your-work-6a90a2da7155",
+    "tags": [
+      "assignments",
+      "being critical",
+      "searching"
+    ]
+  },
        {
      "featured": false,
      "title": "Writing your essay",
