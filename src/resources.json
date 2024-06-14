@@ -454,7 +454,7 @@
         ]
     },
     {
-        "featured": false,
+        "featured": true,
         "title": "Strategies for effective learning",
         "description": "This guide will provide you with some tips to support studying strategically, as well as give you techniques to check your understanding of the material you've learnt. We've organised this resource around the learning journey, to help you decide which tips and strategies might work best for you.",
         "duration": "15 minutes",
@@ -465,6 +465,7 @@
             "revising",
             "study strategies",
             "self-awareness",
+            "get started",
             "writing"
         ]
     },
