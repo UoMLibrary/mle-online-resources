@@ -156,7 +156,7 @@
         ]
     },
      {
-        "featured": false,
+        "featured": true,
         "title": "Academic Integrity",
         "description": "This interactive guide will support you in understanding what is meant by Academic Integrity and how it interacts with your studies. You will find advice and resources on how to ensure you are clearly presenting your own understanding of concepts, consider tools and strategies (including those involving Generative Artificial Intelligence) to support you and examine how to avoid key forms of academic malpractice.",
         "duration": "20 minutes",
