@@ -339,6 +339,17 @@
             "self-awareness"
         ]
     },
+ {
+        "featured": true,
+        "title": "LinkedIn Learning",
+        "description": "This guide is designed to support your access to LinkedIn Learning, an extensive library of expert-led, on-line courses that can help you enhance your communication, leadership, and technical abilities, whether you're gearing up for internships or your first job.",
+        "duration": "20 minutes each",
+        "format": "Interactive guide",
+        "link": "https://www.education.library.manchester.ac.uk/digital-skills/linkedin-learning/",
+        "tags": [
+            "digital skills",
+        ]
+},
     {
         "featured": false,
         "title": "Making the most of academic feedback",
