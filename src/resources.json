@@ -1,6 +1,18 @@
 [
    {
       "featured":true,
+      "title":"Microsoft 365 Fundamentals Certification",
+      "description":"The University of Manchester is providing students with the opportunity to study for and receive a Microsoft 365 Fundamentals Certification professional certifications free-of-charge. This guide contains all of the information you will need to prepare and take an exam. ",
+      "duration":"",
+      "format":"Interactive guide",
+      "link":"https://www.education.library.manchester.ac.uk/digital-skills/exams/microsoft-fundamentals/",
+      "tags":[
+         "my future",
+         "digital skills"
+      ]
+   },
+   {
+      "featured":true,
       "title":"Specialist Library Support",
       "description":"Looking for guidance on referencing software, systematic review, business data and statistics? These resources are now available via our new Specialist Library Support pages.",
       "duration":"",
@@ -128,19 +140,7 @@
          "digital skills"
       ]
    },
-    {
-      "featured":true,
-      "title":"Microsoft 365 Fundamentals Certification",
-      "description":"The University of Manchester is providing students with the opportunity to study for and receive a Microsoft 365 Fundamentals Certification professional certifications free-of-charge. This guide contains all of the information you will need to prepare and take an exam. ",
-      "duration":"",
-      "format":"Interactive guide",
-      "link":"https://www.education.library.manchester.ac.uk/digital-skills/exams/microsoft-fundamentals/",
-      "tags":[
-         "my future",
-         "digital skills"
-      ]
-   },
-   {
+      {
       "featured":false,
       "title":"Achieving your academic goals",
       "description":"This guide will encourage you to consider your long-term academic goals by putting your studies into the broader context of your continued personal development.It will help you to identify and prioritise the steps you need to take in order to achieve these goals.",
