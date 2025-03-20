@@ -25,7 +25,7 @@
       ]
    },
    {
-      "featured":true,
+      "featured":false,
       "title":"Get started with the Library",
       "description":"This guide introduces the support and services available to you through the Library.",
       "duration":"",
@@ -37,7 +37,7 @@
       ]
    },
    {
-      "featured":true,
+      "featured":false,
       "title":"Library support for Writing",
       "description":"This guide links to all writing support provided by the Library including workshops, interactive guides, and strategies to help you overcome challenges such as writers block. There is also information about organising  one to one feedback on your writing with our Royal Literary Fellow.",
       "duration":"",
@@ -50,7 +50,7 @@
       ]
    },
    {
-      "featured":true,
+      "featured":false,
       "title":"Library support for Referencing",
       "description":"This site gathers together all guidance and support in referencing including; how to reference different types of sources in your assignments. It will help you to cite, paraphrase and manage your references using tools such as EndNote, Endnote online and Mendeley.",
       "duration":"",
@@ -63,7 +63,7 @@
       ]
    },
    {
-      "featured":true,
+      "featured":false,
       "title":"Library support for Searching",
       "description":"This site gathers together all guidance and support on the searching process from start to finish and help you to high quality, relevant sources for use in your work.",
       "duration":"",
@@ -76,7 +76,7 @@
       ]
    },
    {
-      "featured":true,
+      "featured":false,
       "title":"Library support for Group work",
       "description":"This site gathers together all guidance and support on group work. It will support you to get organised, stay on track and get the most in working with others during your assignment.",
       "duration":"",
@@ -89,7 +89,7 @@
       ]
    },
    {
-      "featured":true,
+      "featured":false,
       "title":"Library support for Dissertations",
       "description":"This guide brings together library online learning resources, workshops and other content to support you through your dissertation.",
       "duration":"",
@@ -103,7 +103,7 @@
       ]
    },
    {
-      "featured":true,
+      "featured":false,
       "title":"Library support for Presentations",
       "description":"This site gathers together all guidance and support on presentations, including; how to plan, design and deliver presentations.",
       "duration":"",
@@ -116,7 +116,7 @@
       ]
    },
    {
-      "featured":true,
+      "featured":false,
       "title":"Library support for Assessment",
       "description":"This site gathers together all guidance and support for revision and assessment including online learning, workshops podcasts and more.",
       "duration":"",
@@ -169,7 +169,7 @@
       ]
    },
    {
-      "featured":true,
+      "featured":false,
       "title":"Academic Integrity",
       "description":"This interactive guide will support you in understanding what is meant by Academic Integrity and how it interacts with your studies. You will find advice and resources on how to ensure you are clearly presenting your own understanding of concepts, consider tools and strategies (including those involving Generative Artificial Intelligence) to support you and examine how to avoid key forms of academic malpractice.",
       "duration":"20 minutes",
