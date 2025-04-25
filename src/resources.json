@@ -575,6 +575,18 @@
       ]
    },
    {
+    "featured":false,
+    "title":"Writing your literature review",
+    "description":"This guide explores the purpose and process of writing a literature review and demonstrates how to organise your notes, thoughts and ideas in a structured way so that you can group, compare and analyse your research sources.",
+    "duration":"10 minutes",
+    "format":"Interactive guide",
+    "link":"https://www.education.library.manchester.ac.uk/mle/writing-literature-review/#/",
+    "tags":[
+       "dissertations",
+       "writing"
+    ]
+ },
+   {
       "featured":false,
       "title":"Writing an abstract",
       "description":"In this guide we explore what abstracts are, what they should contain and how they differ in different contexts. ",
