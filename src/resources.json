@@ -129,12 +129,24 @@
       ]
    },
    {
+    "featured":true,
+    "title":"Library support for Digital Skills",
+    "description":"This guide brings together all the Library’s support for developing your digital skills. You’ll find resources to help you assess and improve your digital capabilities, explore LinkedIn Learning for expert-led courses, and understand how to use Artificial Intelligence ethically in your studies.",
+    "duration":"",
+    "format":"Interactive guide",
+    "link":"https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/index.html",
+    "tags":[
+       "my future",
+       "digital skills"
+    ]
+ },
+   {
       "featured":true,
       "title":"Develop your digital capabilities",
       "description":"This resource will help you use the Jisc Discovery tool which is a supportive online to help you get to know your digital skills, identify areas you may want to further develop and provides additional support. There are multiple questionnaires you can complete covering your Digital capability including AI and Gen AI and Employability. Completing a question set gives you a personalised report that can help you talk about your digital skills and receive a digital badge to add to your CV.",
       "duration":"",
       "format":"Interactive guide",
-      "link":"https://www.education.library.manchester.ac.uk/none-programme-content/digital-capabilities",
+      "link":"https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/digital-capabilities.html",
       "tags":[
          "my future",
          "digital skills"
@@ -373,7 +385,7 @@
       "description":"This guide is designed to support your access to LinkedIn Learning, an extensive library of expert-led, on-line courses that can help you enhance your communication, leadership, and technical abilities, whether you're gearing up for internships or your first job.",
       "duration":"20 minutes each",
       "format":"Interactive guide",
-      "link":"https://www.education.library.manchester.ac.uk/digital-skills/linkedin-learning/",
+      "link":"https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/linkedin-learning.html",
       "tags":[
          "digital skills"
       ]
