@@ -140,33 +140,7 @@
        "digital skills"
     ]
  },
-   {
-      "featured":true,
-      "title":"Develop your digital capabilities",
-      "description":"This resource will help you use the Jisc Discovery tool which is a supportive online to help you get to know your digital skills, identify areas you may want to further develop and provides additional support. There are multiple questionnaires you can complete covering your Digital capability including AI and Gen AI and Employability. Completing a question set gives you a personalised report that can help you talk about your digital skills and receive a digital badge to add to your CV.",
-      "duration":"",
-      "format":"Interactive guide",
-      "link":"https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/digital-capabilities.html",
-      "tags":[
-         "my future",
-         "digital skills"
-      ]
-   },
       {
-      "featured":false,
-      "title":"Using apps and software to help set and manage your goals",
-      "description":"This blog post from the Library Student Team will encourage you to consider the tools you can use to stay on track with your academic and personal goals.",
-      "duration":"15 minutes",
-      "format":"Interactive guide",
-      "link":"https://education.library.manchester.ac.uk/mle/goal-setting",
-      "tags":[
-         "organising",
-         "planning",
-         "self-awareness",
-         "digital skills"
-      ]
-   },
-   {
       "featured":false,
       "title":"Avoiding plagiarism through good academic practice",
       "description":"This guide explores some of the issues surrounding academic integrity, providing you with techniques to help you to avoid plagiarism when referring to the work of others and to add your own voice into your work.",
@@ -379,18 +353,7 @@
          "self-awareness"
       ]
    },
-   {
-      "featured":true,
-      "title":"LinkedIn Learning",
-      "description":"This guide is designed to support your access to LinkedIn Learning, an extensive library of expert-led, on-line courses that can help you enhance your communication, leadership, and technical abilities, whether you're gearing up for internships or your first job.",
-      "duration":"20 minutes each",
-      "format":"Interactive guide",
-      "link":"https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/linkedin-learning.html",
-      "tags":[
-         "digital skills"
-      ]
-   },
-   {
+     {
       "featured":false,
       "title":"Making the most of academic feedback",
       "description":"Throughout your academic career you will receive a considerable amount of feedback from your tutors and markers. The feedback you receive is one of the most important interactions you will have not only with your tutor, but also with your learning. We have put together this series of guides to help you understand, analyse and act on the feedback you receive.",
