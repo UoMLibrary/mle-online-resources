@@ -7,7 +7,6 @@
       "format":"Interactive guide",
       "link":"https://www.education.library.manchester.ac.uk/digital-skills/exams/microsoft-fundamentals/",
       "tags":[
-         "my future",
          "digital skills"
       ]
    },
@@ -96,7 +95,7 @@
       "format":"Interactive guide",
       "link":"https://www.education.library.manchester.ac.uk/mle/packages/dissertations/",
       "tags":[
-         "dissertations",
+         "dissertation",
          "writing",
          "planning",
          "searching"
@@ -125,7 +124,6 @@
       "tags":[
          "planning",
          "revising",
-         "study strategies"
       ]
    },
    {
@@ -136,8 +134,7 @@
     "format":"Interactive guide",
     "link":"https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/index.html",
     "tags":[
-       "my future",
-       "digital skills"
+          "digital skills"
     ]
  },
       {
@@ -150,8 +147,7 @@
       "tags":[
          "planning",
          "referencing",
-         "assignments",
-         "study strategies",
+         "plagiarism",
          "writing"
       ]
    },
@@ -165,8 +161,6 @@
       "tags":[
          "planning",
          "referencing",
-         "assignments",
-         "study strategies",
          "writing",
          "organising"
       ]
@@ -180,7 +174,7 @@
       "link":"https://www.education.library.manchester.ac.uk/mle/dissertation-topic/",
       "tags":[
          "organising",
-         "dissertations",
+         "dissertation",
          "planning",
          "searching"
       ]
@@ -193,7 +187,6 @@
       "format":"Interactive guide",
       "link":"https://www.education.library.manchester.ac.uk/mle/developing-argument/",
       "tags":[
-         "assignments",
          "being critical",
          "planning",
          "writing"
@@ -233,8 +226,7 @@
       "format":"Interactive guide",
       "link":"https://www.education.library.manchester.ac.uk/mle/evaluating-sources/",
       "tags":[
-         "being critical",
-         "assignments"
+         "being critical"
       ]
    },
    {
@@ -278,10 +270,9 @@
       "format":"Interactive guide",
       "link":"https://www.education.library.manchester.ac.uk/mle/lit-review/",
       "tags":[
-         "dissertations",
+         "dissertation",
          "planning",
          "searching",
-         "assignments",
          "writing"
       ]
    },
@@ -305,8 +296,7 @@
       "format":"Interactive guide",
       "link":"https://www.education.library.manchester.ac.uk/mle/search-toolkit/",
       "tags":[
-         "searching",
-         "assignments"
+         "searching"
       ]
    },
    {
@@ -318,7 +308,6 @@
       "link":"https://www.education.library.manchester.ac.uk/mle/introducing-databases",
       "tags":[
          "searching",
-         "assignments",
          "planning",
          "organising"
       ]
@@ -331,10 +320,8 @@
       "format":"Interactive guide",
       "link":"https://www.education.library.manchester.ac.uk/mle/reading",
       "tags":[
-         "study strategies",
          "organising",
          "being critical",
-         "assignments",
          "planning"
       ]
    },
@@ -349,8 +336,7 @@
          "group work",
          "organising",
          "presentations",
-         "writing",
-         "self-awareness"
+         "writing"
       ]
    },
      {
@@ -362,10 +348,7 @@
       "link":"https://www.education.library.manchester.ac.uk/mle/feedback/",
       "tags":[
          "writing",
-         "self-awareness",
-         "study strategies",
-         "being critical",
-         "assignments"
+         "being critical"
       ]
    },
    {
@@ -401,8 +384,7 @@
       "link":"https://www.education.library.manchester.ac.uk/mle/planning-search/",
       "tags":[
          "planning",
-         "searching",
-         "assignments"
+         "searching"
       ]
    },
    {
@@ -414,9 +396,8 @@
       "link":"https://www.education.library.manchester.ac.uk/mle/dissertation-planning/",
       "tags":[
          "planning",
-         "dissertations",
-         "referencing",
-         "study strategies"
+         "dissertation",
+         "referencing"
       ]
    },
    {
@@ -440,8 +421,7 @@
       "format":"Interactive guide",
       "link":"https://www.education.library.manchester.ac.uk/mle/proofreading/",
       "tags":[
-         "assignments",
-         "dissertations",
+         "dissertation",
          "writing"
       ]
    },
@@ -454,7 +434,7 @@
       "link":"https://www.education.library.manchester.ac.uk/mle/referring-to-other-peoples-ideas-in-your-work/",
       "tags":[
          "referencing",
-         "dissertations",
+         "dissertation",
          "writing"
       ]
    },
@@ -480,7 +460,6 @@
       "tags":[
          "organising",
          "revising",
-         "study strategies",
          "writing"
       ]
    },
@@ -494,8 +473,6 @@
       "tags":[
          "organising",
          "revising",
-         "study strategies",
-         "self-awareness",
          "get started",
          "writing"
       ]
@@ -558,7 +535,7 @@
     "format":"Interactive guide",
     "link":"https://www.education.library.manchester.ac.uk/mle/writing-literature-review/#/",
     "tags":[
-       "dissertations",
+       "dissertation",
        "writing"
     ]
  },
@@ -572,7 +549,7 @@
       "tags":[
          "assignments",
          "writing",
-         "dissertations",
+         "dissertation",
          "planning"
       ]
    },
