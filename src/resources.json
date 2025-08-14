@@ -268,20 +268,6 @@
     },
     {
         "featured": false,
-        "title": "Getting started with literature reviews",
-        "description": "This guide will give you an introduction to literature reviews. It will also give you advice on what a good literature should include, and how to prepare for writing your literature review.",
-        "duration": "15 minutes",
-        "format": "Interactive guide",
-        "link": "https://www.education.library.manchester.ac.uk/mle/lit-review/",
-        "tags": [
-            "dissertation",
-            "planning",
-            "searching",
-            "writing"
-        ]
-    },
-    {
-        "featured": false,
         "title": "Getting started with report writing",
         "description": "This guide explores key elements of producing a written report. Including, structure, purpose, language and referencing; It highlights important considerations to help you write clear and concise reports.",
         "duration": "30 mins",
