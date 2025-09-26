@@ -233,40 +233,7 @@
             "being critical"
         ]
     },
-    {
-        "featured": false,
-        "title": "Finding a job: CV structure and presentation",
-        "description": "This guide explores the elements of a well presented and coherently structured CV, and illustrates how you can create a professional looking CV that will be easier for recruiters to read and make a positive first impression.",
-        "duration": "20 minutes",
-        "format": "Interactive guide",
-        "link": "https://www.education.library.manchester.ac.uk/mle/careers/cv-structure/",
-        "tags": [
-            "my future"
-        ]
-    },
-    {
-        "featured": false,
-        "title": "Finding a job: researching the organisation",
-        "description": "This guide highlights some of the key things you need to know about a role and an organisation before applying for a job, and provides some tips on where you can look to gather the evidence you need to make your application stand out.",
-        "duration": "20 minutes",
-        "format": "Interactive guide",
-        "link": "https://www.education.library.manchester.ac.uk/mle/careers/research/",
-        "tags": [
-            "my future"
-        ]
-    },
-    {
-        "featured": false,
-        "title": "Finding a job: tailoring your CV",
-        "description": "This guide examines how you can use the information you have about a role to highlight relevant skills, experience and attributes in your CV, making it easier for recruiters to see how you fit the role you are applying for.",
-        "duration": "15 minutes",
-        "format": "Interactive guide",
-        "link": "https://www.education.library.manchester.ac.uk/mle/careers/tailoring/",
-        "tags": [
-            "my future"
-        ]
-    },
-    {
+        {
         "featured": false,
         "title": "Getting started with report writing",
         "description": "This guide explores key elements of producing a written report. Including, structure, purpose, language and referencing; It highlights important considerations to help you write clear and concise reports.",
