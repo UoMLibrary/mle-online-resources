@@ -26,18 +26,6 @@
     },
     {
         "featured": false,
-        "title": "Get started with the Library",
-        "description": "This guide introduces the support and services available to you through the Library.",
-        "duration": "",
-        "format": "Interactive guide",
-        "link": "https://www.education.library.manchester.ac.uk/none-programme-content/get-started-library/",
-        "tags": [
-            "assignments",
-            "get started"
-        ]
-    },
-    {
-        "featured": false,
         "title": "Library support for Writing",
         "description": "This guide links to all writing support provided by the Library including workshops, interactive guides, and strategies to help you overcome challenges such as writers block. There is also information about organising  one to one feedback on your writing with our Royal Literary Fellow.",
         "duration": "",
