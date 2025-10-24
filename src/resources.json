@@ -481,4 +481,37 @@
             "writing"
         ]
     }
+        {
+        "featured": true,
+        "title": "LinkedIn Learning",
+        "description": "This library guide is designed to support your access to LinkedIn Learning, an extensive library of expert-led, on-line courses that can help you enhance your skills.",
+        "duration": "30 minutes",
+        "format": "Interactive guides",
+        "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/linkedin-learning.html",
+        "tags": [
+            "digital skills"
+        ]
+    }
+ {
+        "featured": false,
+        "title": "Using Generative AI in your learning",
+        "description": "This library guide explores important considerations such as academic integrity, referencing, and copyright in the context of Generative AI. We do not provide instruction on how to use AI tools themselves, for that, we recommend exploring LinkedIn Learning.",
+        "duration": "30 minutes",
+        "format": "Interactive guides",
+        "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/ai.html",
+        "tags": [
+            "digital skills"
+        ]
+    }
+     {
+        "featured": false,
+        "title": "Develop your digital capabilities",
+        "description": "This Library support guide is designed to help you assess your current skills and provide the right resources to support your growth. Whether you are looking to enhance your knowledge, develop new competencies, or stay ahead in the digital landscape, here you will find comprehensive tools, guides, and learning materials to assist you in achieving your goals.",
+        "duration": "30 minutes",
+        "format": "Interactive guides",
+        "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/digital-capabilities.html",
+        "tags": [
+            "digital skills"
+        ]
+    }
 ]
