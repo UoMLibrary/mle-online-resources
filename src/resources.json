@@ -1,13 +1,25 @@
 [
     {
         "featured": true,
-        "title": "Microsoft 365 Fundamentals Certification",
-        "description": "The University of Manchester is providing students with the opportunity to study for and receive a Microsoft 365 Fundamentals Certification free-of-charge. This guide contains all of the information you will need to prepare and take an exam. ",
+        "title": "Digital skills certifications",
+        "description": "The University of Manchester provides students with the opportunity to receive a range of professional Certificationsincluding Microsoft Fundamentals, Office and AI free-of-charge. This page contains all of the information you will need to prepare for and take a certification assessment. ",
         "duration": "",
-        "format": "Interactive guide",
-        "link": "https://www.education.library.manchester.ac.uk/digital-skills/exams/microsoft-fundamentals/",
+        "format": "Interactive guides",
+        "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/m365-exams.html",
         "tags": [
             "digital skills"
+        ]
+    },
+        {
+        "featured": true,
+        "title": "Library support for Digital Skills",
+        "description": "This guide brings together all the Library’s support for developing your digital skills. You’ll find resources to help you assess and improve your digital capabilities, explore LinkedIn Learning for expert-led courses, and information about digital certifications you can gain free of charge during your studies.",
+        "duration": "",
+        "format": "Interactive guides",
+        "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/index.html",
+        "tags": [
+            "digital skills",
+            "my future"
         ]
     },
     {
@@ -15,7 +27,7 @@
         "title": "Specialist Library Support",
         "description": "Looking for guidance on referencing software, systematic review, business data and statistics? These resources are now available via our new Specialist Library Support pages.",
         "duration": "",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.library.manchester.ac.uk/training/specialist-library-support/",
         "tags": [
             "referencing",
@@ -25,15 +37,14 @@
         ]
     },
     {
-        "featured": false,
+        "featured": true,
         "title": "Library support for Writing",
-        "description": "This guide links to all writing support provided by the Library including workshops, interactive guides, and strategies to help you overcome challenges such as writers block. There is also information about organising  one to one feedback on your writing with our Royal Literary Fellow.",
+        "description": "This guide links to all writing support provided by the Library including workshops, Interactive guidess, and strategies to help you overcome challenges such as writers block. You can also book a one to one and get feedback on your writing with our Royal Literary Fellow.",
         "duration": "",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/packages/writing/",
         "tags": [
-            "assignments",
-            "referencing",
+        "referencing",
           "plagiarism",
             "writing"
         ]
@@ -41,12 +52,11 @@
     {
         "featured": false,
         "title": "Library support for Referencing",
-        "description": "This site gathers together all guidance and support in referencing including; how to reference different types of sources in your assignments. It will help you to cite, paraphrase and manage your references using tools such as EndNote, Endnote online and Mendeley.",
+        "description": "This guide inclludes all resources and support availalible to you from the Library on referencing. This includes; how to reference different types of sources, referencing styles and using referencing software.",
         "duration": "",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/sls/packages/referencing",
         "tags": [
-            "assignments",
             "referencing",
            "plagiarism",
             "writing"
@@ -55,88 +65,73 @@
     {
         "featured": false,
         "title": "Library support for Searching",
-        "description": "This site gathers together all guidance and support on the searching process from start to finish and help you to high quality, relevant sources for use in your work.",
+        "description": "This guide gathers together all resources and support on the searching process. This includes guides to help you find high quality, relevant sources and using advanced searching techniques.",
         "duration": "",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/packages/searching",
         "tags": [
-            "assignments",
-            "searching",
-            "writing"
+            "searching"
         ]
     },
     {
         "featured": false,
         "title": "Library support for Group work",
-        "description": "This site gathers together all guidance and support on group work. It will support you to get organised, stay on track and get the most in working with others during your assignment.",
+        "description": "This guide gathers together all resources and support on group work. This includes support to get organised, stay on track and get the most in working with others.",
         "duration": "",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/packages/group-work",
         "tags": [
             "group work",
-            "assignments",
-            "presentation"
+            "presentations"
         ]
     },
     {
         "featured": false,
         "title": "Library support for Dissertations",
-        "description": "This guide brings together library online learning resources, workshops and other content to support you through your dissertation.",
+        "description": "This guide brings together all Library resources and suppot for planning and writing your dissertation. This includes guidance on choosing your topic, carrying out a literature review and referring to other peoples ideas in your work.",
         "duration": "",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/packages/dissertations/",
         "tags": [
-            "dissertation",
+            "dissertations",
             "writing",
-            "planning",
+            
             "searching"
         ]
     },
     {
         "featured": false,
         "title": "Library support for Presentations",
-        "description": "This site gathers together all guidance and support on presentations, including; how to plan, design and deliver presentations.",
+        "description": "This guide site brings together all resources and support on presentations, including; how to plan, design and deliver presentations with confidence.",
         "duration": "",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/packages/presentations/",
         "tags": [
-            "organising",
-            "planning",
-            "presentation"
+            
+            
+            "presentations"
         ]
     },
     {
         "featured": false,
         "title": "Library support for Assessment",
-        "description": "This site gathers together all guidance and support for revision and assessment including online learning, workshops podcasts and more.",
+        "description": "This guide brings together all resources and support for revision and assessment including skills practice activities, interactive , podcasts and workshops.",
         "duration": "",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/packages/assessment-support/",
         "tags": [
-            "planning",
-            "revising"
-        ]
-    },
-    {
-        "featured": true,
-        "title": "Library support for Digital Skills",
-        "description": "This guide brings together all the Library’s support for developing your digital skills. You’ll find resources to help you assess and improve your digital capabilities, explore LinkedIn Learning for expert-led courses, and understand how to use Artificial Intelligence ethically in your studies.",
-        "duration": "",
-        "format": "Interactive guide",
-        "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/index.html",
-        "tags": [
-            "digital skills"
+            
+            "revision"
         ]
     },
     {
         "featured": false,
         "title": "Avoiding plagiarism through good academic practice",
-        "description": "This guide explores some of the issues surrounding academic integrity, providing you with techniques to help you to avoid plagiarism when referring to the work of others and to add your own voice into your work.",
+        "description": "This guide explores some of the issues surrounding academic integrity, providing you with techniques to help you to avoid plagiarism when referring the work of others and to add your own voice into your work.",
         "duration": "20 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/avoiding-plagiarism/",
         "tags": [
-            "planning",
             "referencing",
             "plagiarism",
             "writing"
@@ -145,29 +140,26 @@
     {
         "featured": false,
         "title": "Academic Integrity",
-        "description": "This interactive guide will support you in understanding what is meant by Academic Integrity and how it interacts with your studies. You will find advice and resources on how to ensure you are clearly presenting your own understanding of concepts, consider tools and strategies (including those involving Generative Artificial Intelligence) to support you and examine how to avoid key forms of academic malpractice.",
+        "description": "This guide to Academic Integrity will support you in understanding how to clearly presenting your own understanding of  and ideas. You will consider tools like generative AI and strategies to good academic practice.",
         "duration": "20 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/academic-integrity/",
         "tags": [
-            "planning",
             "referencing",
             "plagiarism",
-            "writing",
-            "organising"
+            "writing"
         ]
     },
     {
         "featured": false,
         "title": "Choosing your dissertation topic",
-        "description": "This guide focuses on choosing a topic for your dissertation.It will take you through the key elements of the early stages of your dissertation such as writing your research question and the objectives for achieving it.",
+        "description": "This guide fotakes you through the process of choosing a topic for your dissertation. It will guide you through the key elements of the early stages of your dissertation such as writing your research question and the objectives for achieving it.",
         "duration": "20 mins",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/dissertation-topic/",
         "tags": [
-            "organising",
-            "dissertation",
-            "planning",
+            
+            "dissertations",
             "searching"
         ]
     },
@@ -176,38 +168,33 @@
         "title": "Developing and communicating your argument",
         "description": "In this guide you will explore how to develop a strong argument and communicate it effectively, whether in writing or in an oral presentation.",
         "duration": "30 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/developing-argument/",
         "tags": [
             "being critical",
-            "planning",
             "writing"
         ]
     },
     {
         "featured": false,
         "title": "Delivering your presentation",
-        "description": "In this guide we will explore what makes a good presenter and how can you use this to become a more confident when presenting. These techniques will enable you to deliver your presentations in a way that will make your audience sit up and take notice!",
+        "description": "In this guide you will explore what makes a good presenter and how you can become more confident when  presenting.",
         "duration": "20 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/presentations/delivery/",
         "tags": [
-            "organising",
-            "planning",
-            "presentation"
+            "presentations"
         ]
     },
     {
         "featured": false,
         "title": "Designing your presentation",
-        "description": "This guide outlines different visual tools you can utilise to create visual aids for your presentation. It explores the types of visual aids you can use and what to display on screen. It will give you some inspiration you can use to design your own slides.",
+        "description": "This guide outlines different visual tools you can utilise to create visual aids for your presentation.",
         "duration": "20 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/presentations/design/",
         "tags": [
-            "organising",
-            "planning",
-            "presentation"
+            "presentations"
         ]
     },
     {
@@ -215,7 +202,7 @@
         "title": "Evaluating sources of information",
         "description": "This guide explores the process of evaluating the sources you find to ensure they are relevant and quality assured, equipping you with the skills you need to identify high-quality information to use in your academic work.",
         "duration": "20 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/evaluating-sources/",
         "tags": [
             "being critical"
@@ -226,10 +213,9 @@
         "title": "Getting started with report writing",
         "description": "This guide explores key elements of producing a written report. Including, structure, purpose, language and referencing; It highlights important considerations to help you write clear and concise reports.",
         "duration": "30 mins",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/report-writing/",
         "tags": [
-            "planning",
             "writing"
         ]
     },
@@ -237,8 +223,8 @@
         "featured": false,
         "title": "Getting started with search tools",
         "description": "This guide explores Google, Google Scholar, subject databases and Library Search, highlighting their strengths and weaknesses to enable you to make an informed choice when selecting where to search for information.",
-        "duration": "15 minutes",
-        "format": "Interactive guide",
+        "duration": "20 minutes",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/search-toolkit/",
         "tags": [
             "searching"
@@ -247,27 +233,23 @@
     {
         "featured": false,
         "title": "Getting started with subject databases",
-        "description": "This guide explores some of the key features of subject databases, demonstrating that while they can initially appear daunting and complicated, they can be as easy to use as any online shopping site.",
+        "description": "This guide explores the key features of subject databases, demonstrating that while they can initially appear daunting and complicated, they can be as easy to use as any online shopping site.",
         "duration": "10 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/introducing-databases",
         "tags": [
-            "searching",
-            "planning",
-            "organising"
+            "searching"
         ]
-    },
+   },
     {
         "featured": false,
         "title": "Getting the most from your reading",
         "description": "This guide explores practical strategies you can use for academic reading, enabling you to locate the most appropriate material for your needs and approach your reading systematically.",
         "duration": "35 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/reading",
         "tags": [
-            "organising",
-            "being critical",
-            "planning"
+            "reading"
         ]
     },
     {
@@ -275,48 +257,47 @@
         "title": "Group work",
         "description": "This guide explores key elements of group work. Including, the skills involved and getting the most from working collaboratively. It also highlights important considerations to help you stay on track and address issues that may arise.",
         "duration": "15 minutes each",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/group-work/",
         "tags": [
             "group work",
-            "organising",
-            "presentation",
-            "writing"
+            "presentations"
         ]
     },
     {
         "featured": false,
         "title": "Making the most of academic feedback",
-        "description": "Throughout your academic career you will receive a considerable amount of feedback from your tutors and markers. The feedback you receive is one of the most important interactions you will have not only with your tutor, but also with your learning. We have put together this series of guides to help you understand, analyse and act on the feedback you receive.",
+        "description": "This guide will show you how to analyse and act on the feedback you receive. Feedback is one of the most important interactions you will have not only with your tutor, but also with your learning. ",
         "duration": "1 hour",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/feedback/",
         "tags": [
             "writing",
-            "being critical"
+            "being critical",
+            "group work"
         ]
     },
     {
         "featured": false,
-        "title": "Now or never? Strategies for dealing with procrastination",
+        "title": "Strategies for dealing with procrastination",
         "description": "This guide examines some of the practical strategies that you can use to help you to overcome your procrastination.",
         "duration": "20 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/counselling/procrastination-strategies/",
         "tags": [
-            "revising",
+            "revision",
             "wellbeing"
         ]
     },
     {
         "featured": false,
-        "title": "Now or never? Understanding the procrastination cycle",
+        "title": "Understanding the procrastination cycle",
         "description": "This guide will help you to explore your own procrastination behaviour, and recognise how it is often rooted in certain negative thoughts and emotions.",
         "duration": "20 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/counselling/procrastination-cycle/",
         "tags": [
-            "revising",
+            "revision",
             "wellbeing"
         ]
     },
@@ -325,10 +306,9 @@
         "title": "Planning and reviewing your search",
         "description": "This guide explores the process of planning a search, highlighting some techniques you can use to refine your search to help you to get a manageable number of high-quality, relevant results to use in your work.",
         "duration": "20 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/planning-search/",
         "tags": [
-            "planning",
             "searching"
         ]
     },
@@ -337,11 +317,10 @@
         "title": "Planning your dissertation",
         "description": "This guide will highlight some of the key stages in planning to write your dissertation. It will also highlight some useful tools to help you along the way.",
         "duration": "15 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/dissertation-planning/",
         "tags": [
-            "planning",
-            "dissertation",
+            "dissertations",
           "plagiarism",
             "referencing"
         ]
@@ -351,50 +330,46 @@
         "title": "Planning your presentation",
         "description": "This guide takes you through the process of planning your presentation, giving you some useful techniques to ensure that your presentation remains focused on the requirements of your task and directly addresses the topic you're covering.",
         "duration": "20 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/presentations/planning/",
         "tags": [
-            "organising",
-            "planning",
-            "presentation"
+           "presentations"
         ]
     },
     {
         "featured": false,
         "title": "Proofreading your writing",
-        "description": "This guide explores three vital elements to review when proofreading your work - flow, clarity and accuracy - and gives you a chance to learn about and apply some techniques to ensure that you check your work properly.",
+        "description": "This guide explores three vital elements to review when proofreading your work - flow, clarity and accuracy. It will also provide you with techniques to ensure that you check your work properly.",
         "duration": "15 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/proofreading/",
         "tags": [
-            "dissertation",
+            "dissertations",
             "writing"
         ]
     },
     {
         "featured": false,
         "title": "Referring to other people's ideas in your work",
-        "description": "This guide explores the principles behind referencing, highlighting why it is good academic practice. You will also explore how you can use references as evidence for your argument and how to differentiate the ideas of others from your own voice.",
-        "duration": "15 minutes",
-        "format": "Interactive guide",
+        "description": "This guide explores the principles behind referencing and why it is good academic practice. You will also explore how you can use references as evidence for your argument and how to differentiate the ideas of others from your own voice.",
+        "duration": " minutes",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/referring-to-other-peoples-ideas-in-your-work/",
         "tags": [
             "referencing",
            "plagiarism",
-            "dissertation",
             "writing"
         ]
     },
     {
         "featured": false,
         "title": "Revision strategies",
-        "description": "This guide will help you to develop strategies you can use to manage your revision effectively by creating a revision plan.",
-        "duration": "20",
-        "format": "Interactive guide",
+        "description": "This guide demonstrates strategies you can use to manage your revision effectively at each stage.",
+        "duration": "20 minutes",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/revision-strategies/",
         "tags": [
-            "organising",
-            "revising"
+            "revision"
         ]
     },
     {
@@ -402,25 +377,25 @@
         "title": "Strategies for effective note making",
         "description": "This guide looks at the purposes and contexts in which you make notes. It also provides an overview of different note-making techniques and which purpose theses techniques are most effective for.",
         "duration": "15 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/note-making/",
         "tags": [
-            "organising",
-            "revising",
+            "revision",
+            "note making",
             "writing"
         ]
     },
     {
         "featured": true,
         "title": "Strategies for effective learning",
-        "description": "This guide will provide you with some tips to support studying strategically, as well as give you techniques to check your understanding of the material you've learnt. We've organised this resource around the learning journey, to help you decide which tips and strategies might work best for you.",
+        "description": "This guide provides you with advice and techniques to check your understanding of the material you've learnt. We've organised this resource around the learning journey, to help you decide which tips and strategies might work best for you.",
         "duration": "15 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/strategic-study/",
         "tags": [
-            "organising",
-            "revising",
-            "get started",
+            
+            "revision",
+            "note making",
             "writing"
         ]
     },
@@ -429,35 +404,33 @@
         "title": "Thinking, reading and writing critically",
         "description": "This guide explores how to be critical, highlighting practical strategies you can use in your academic reading and writing that will enable you to demonstrate critical analysis in your assignments.",
         "duration": "15 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/being-critical/",
         "tags": [
             "being critical",
+            "reading",
             "writing"
         ]
     },
     {
         "featured": false,
         "title": "Using operators within your search",
-        "description": "This guide will introduce you to the use of search operators in subject databases.\nYou will gain a greater understanding  of how each operator refines and manipulates your search; enabling you to retrieve more accurate and relevant results.",
+        "description": "This guide introduces search operators and how you can utilise them within subject databases to retrieve more accurate and relevant results.",
         "duration": "20 mins",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/search-operators/",
         "tags": [
-            "assignments",
-            "searching",
-            "assignments"
+            "searching"
         ]
     },
     {
         "featured": false,
         "title": "Using Special Collections in your work",
-        "description": "This guide will introduce you to what special collections are, their importance, and how we can use critical analysis to get the most from them",
+        "description": "This guide introduces you to special collections and their importance in research. You will explore how you can use critical analysis to get the most from them.",
         "duration": "15 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/special-collections/",
         "tags": [
-            "assignments",
             "being critical",
             "searching"
         ]
@@ -465,12 +438,11 @@
     {
         "featured": false,
         "title": "Writing your essay",
-        "description": "This guide explores the purpose and process of writing an essay, highlighting how you can ensure that your themes run throughout your work, and that every section of your essay supports your argument to help your reader to understand your ideas.",
+        "description": "This guide explores the purpose and process of writing an essay. You will learn to ensure your essay's themes run throughout your work, and how to ensure that every section of your writing supports your argument.",
         "duration": "15 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/writing-essay/",
         "tags": [
-            "assignments",
             "writing"
         ]
     },
@@ -478,37 +450,34 @@
         "featured": false,
         "title": "Writing your literature review",
         "description": "This guide explores the purpose and process of writing a literature review and demonstrates how to organise your notes, thoughts and ideas in a structured way so that you can group, compare and analyse your research sources.",
-        "duration": "10 minutes",
-        "format": "Interactive guide",
+        "duration": "20 minutes",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/writing-literature-review/#/",
         "tags": [
-            "dissertation",
+            "dissertations",
             "writing"
         ]
     },
     {
         "featured": false,
         "title": "Writing an abstract",
-        "description": "In this guide we explore what abstracts are, what they should contain and how they differ in different contexts. ",
+        "description": "In this guide you will explore what abstracts are, what they should contain and how they differ across contextas and disciplines.",
         "duration": "35 minutes",
-        "format": "Interactive guide",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/writing-abstract/",
         "tags": [
-            "assignments",
             "writing",
-            "dissertation",
-            "planning"
+            "dissertations"
         ]
     },
     {
         "featured": false,
         "title": "Writing scientific reports",
         "description": "In this guide we explore how scientific reports differ from general report writing, including structure, conventions and other key elements.",
-        "duration": "35 minutes",
-        "format": "Interactive guide",
+        "duration": "30 minutes",
+        "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/report-writing-scientific/",
         "tags": [
-            "assignments",
             "writing"
         ]
     }
