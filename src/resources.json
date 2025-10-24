@@ -513,5 +513,23 @@
         "tags": [
             "digital skills"
         ]
+    },
+    {
+        "featured": false,
+        "title": "All formats",
+        "description": "This page lists all our online guides with links to both the online interactive version and a downloadable text only version which ideal for printing or those needing a more accessible version to screen readers. ",
+        "duration": "30 minutes",
+        "format": "Text only",
+        "link": "https://education.library.manchester.ac.uk/accessible-versions/all-formats/",
+        "tags": [
+            "digital skills",
+            "writing",
+            "plagiarism",
+            "searching",
+            "group work",
+            "dissertations",
+            "revision"
+        ]
     }
+
 ]
