@@ -23,7 +23,7 @@
         ]
     },
     {
-        "featured": true,
+        "featured": false,
         "title": "Specialist Library Support",
         "description": "Looking for guidance on referencing software, systematic review, business data and statistics? These resources are now available via our new Specialist Library Support pages.",
         "duration": "",
@@ -386,7 +386,7 @@
         ]
     },
     {
-        "featured": true,
+        "featured": false,
         "title": "Strategies for effective learning",
         "description": "This guide provides you with advice and techniques to check your understanding of the material you've learnt. We've organised this resource around the learning journey, to help you decide which tips and strategies might work best for you.",
         "duration": "15 minutes",
