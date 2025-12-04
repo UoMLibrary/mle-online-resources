@@ -219,18 +219,7 @@
             "writing"
         ]
     },
-    {
-        "featured": false,
-        "title": "Getting started with search tools",
-        "description": "This guide explores Google, Google Scholar, subject databases and Library Search, highlighting their strengths and weaknesses to enable you to make an informed choice when selecting where to search for information.",
-        "duration": "20 minutes",
-        "format": "Interactive guides",
-        "link": "https://www.education.library.manchester.ac.uk/mle/search-toolkit/",
-        "tags": [
-            "searching"
-        ]
-    },
-    {
+        {
         "featured": false,
         "title": "Getting started with subject databases",
         "description": "This guide explores the key features of subject databases, demonstrating that while they can initially appear daunting and complicated, they can be as easy to use as any online shopping site.",
@@ -414,11 +403,11 @@
     },
     {
         "featured": false,
-        "title": "Using operators within your search",
-        "description": "This guide introduces search operators and how you can utilise them within subject databases to retrieve more accurate and relevant results.",
+        "title": "Searching Effectively",
+        "description": "This guide introduces key strategies for refining search results, including keyword planning, Boolean operators, and advanced techniques for web and database searches. It also highlights how to evaluate sources for reliability and relevance, helping you to find trustworthy, high-quality information efficiently.",
         "duration": "20 mins",
         "format": "Interactive guides",
-        "link": "https://www.education.library.manchester.ac.uk/mle/search-operators/",
+        "link": "https://www.education.library.manchester.ac.uk/mle/search-effectively/",
         "tags": [
             "searching"
         ]
