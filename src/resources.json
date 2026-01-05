@@ -503,6 +503,23 @@
             "digital skills"
         ]
     },
+   {
+        "featured": false,
+        "title": "Accessing Support From The Library",
+        "description": "Starting from Basics: Learning and Researching support on the library website",
+        "duration": "30 minutes",
+        "format": "Video",
+        "link": "https://education.library.manchester.ac.uk/videos/accessing-support-from-the-library/",
+        "tags": [
+            "digital skills",
+            "writing",
+            "plagiarism",
+            "searching",
+            "group work",
+            "dissertations",
+            "revision"
+        ]
+    },
     {
         "featured": false,
         "title": "All formats guide",
