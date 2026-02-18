@@ -260,7 +260,7 @@
         "link": "https://soundcloud.com/uomlibrary/introduction-to-referencing?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fuomlibrary%252Fintroduction-to-referencing3",
         "tags": ["referencing"]
     },
-        {
+    {
         "featured": false,
         "title": "Library support for assessment",
         "description": "Here you can find all the Library resources and support for revision and assessment, including skills-practice activities, interactive guides, podcasts, and workshops.",
@@ -269,7 +269,7 @@
         "link": "https://www.education.library.manchester.ac.uk/mle/packages/assessment-support/",
         "tags": ["revision"]
     },
-   {
+    {
         "featured": true,
         "title": "Library support for digital skills",
         "description": "Identify areas to further develop your digital capabilities through this interactive guide. We cover the digital capabilities framework and how to get started with LinkedIn Learning's suite of expert-led online courses.",
@@ -574,7 +574,7 @@
         "link": "https://www.education.library.manchester.ac.uk/mle/special-collections/",
         "tags": ["being critical","searching"]
     },
-   {
+    {
         "featured": false,
         "title": "Writing an abstract",
         "description": "Learn about abstracts and how to write one using this interactive guide. We show what an abstract should contain, how it differs from other kinds of writing, and how they vary across different contexts.",
@@ -592,7 +592,7 @@
         "link": "https://soundcloud.com/uomlibrary/writing-critically?si=363c07d1438f4ff0b99dec600d0cb87d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         "tags": ["writing"]
     },
-   {
+    {
         "featured": false,
         "title": "Writing scientific reports",
         "description": "Learn how scientific reports differ from general report writing using this interactive guide. We cover the structure, conventions, and other key elements of reports.",
@@ -609,5 +609,5 @@
         "format": "Podcast",
         "link": "https://soundcloud.com/uomlibrary/writing-a-blog-post-for-your-assessment?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fuomlibrary%252Fwriting-a-blog-post-for-your-assessment",
         "tags": ["revision"]
-    },
+    }
 ]
