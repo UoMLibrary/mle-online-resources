@@ -63,15 +63,6 @@
         "tags": ["digital skills"]
     },
     {
-        "featured": true,
-        "title": "Digital skills certifications",
-        "description": "The University of Manchester provides students with the opportunity to receive a range of professional Certifications including Microsoft Fundamentals, Office and AI free-of-charge. This page contains all of the information you will need to prepare for and take a certification assessment. ",
-        "duration": "",
-        "format": "Interactive guides",
-        "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/m365-exams.html",
-        "tags": ["digital skills"]
-    },
-    {
         "featured": false,
         "title": "Developing and communicating your argument",
         "description": "Through a five-step technique, this guide takes you through the process of identifying your overall argument and organising your ideas into a coherent structure.",
@@ -79,6 +70,15 @@
         "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/developing-argument/",
         "tags": ["being critical","writing"]
+    },
+    {
+        "featured": true,
+        "title": "Digital skills certifications",
+        "description": "The University of Manchester provides students with the opportunity to receive a range of professional Certifications including Microsoft Fundamentals, Office and AI, free of charge. This page contains all of the information you'll need to prepare for and take a certification assessment.",
+        "duration": "",
+        "format": "Interactive guides",
+        "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/m365-exams.html",
+        "tags": ["digital skills"]
     },
     {
         "featured": false,
@@ -200,7 +200,7 @@
     {
         "featured": true,
         "title": "LinkedIn Learning",
-        "description": "This library guide is designed to support your access to LinkedIn Learning, an extensive library of expert-led, on-line courses that can help you enhance your skills.",
+        "description": "This Library guide is designed to support your access to LinkedIn Learning, an extensive library of expert-led, online courses that can help you enhance your skills.",
         "duration": "30 minutes",
         "format": "Interactive guides",
         "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/linkedin-learning.html",
@@ -334,11 +334,11 @@
     {
         "featured": false,
         "title": "Using generative AI in your learning",
-        "description": "This library guide explores important considerations such as academic integrity, referencing, and copyright in the context of generative AI. We do not provide instruction on how to use AI tools themselves, for that, we recommend exploring LinkedIn Learning.",
+        "description": "This Library guide explores important considerations when using generative AI, such as academic integrity, referencing, and copyright. For instruction on how to use AI tools themselves, we recommend you explore LinkedIn Learning.",
         "duration": "30 minutes",
         "format": "Interactive guides",
         "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/ai.html",
-        "tags": ["digital skills"]
+        "tags": ["digital skills","plagiarism","searching","being critical","referencing"]
     },
     {
         "featured": false,
