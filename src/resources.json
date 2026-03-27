@@ -5,8 +5,8 @@
         "description": "This interactive guide will develop your understanding of academic integrity and its role in your studies. We will examine how to avoid key forms of academic malpractice, exploring tools and strategies (including those involving generative artificial intelligence) that can support you.",
         "duration": "20 minutes",
         "format": "Interactive guides",
-        "subformat": "rise",
-        "link": "https://www.education.library.manchester.ac.uk/mle/academic-integrity/",
+        "subformat": "360/rise",
+        "link": "https://education.library.manchester.ac.uk/mle/academic-integrity/",
         "tags": ["referencing","plagiarism","writing"]
     },
     {
@@ -15,6 +15,7 @@
         "description": "This page lists all our online guides with links to both the online interactive version and a downloadable text-only version, which is ideal for printing or for those needing a more accessible version to use with screen readers.",
         "duration": "30 minutes",
         "format": "Text only",
+        "subformat": "html",
         "link": "https://education.library.manchester.ac.uk/accessible-versions/all-formats/",
         "tags": ["digital skills","writing","plagiarism","searching","group work","dissertations","revision"]
     },
@@ -24,7 +25,8 @@
         "description": "To learn about academic integrity, including key issues to be aware of, take a look at this guide. We cover strategies to help you avoid plagiarism when referring to the ideas of others and to add your own voice into your work.",
         "duration": "20 minutes",
         "format": "Interactive guides",
-        "link": "https://www.education.library.manchester.ac.uk/mle/avoiding-plagiarism/",
+        "subformat": "360/rise",
+        "link": "https://education.library.manchester.ac.uk/mle/avoiding-plagiarism/",
         "tags": ["referencing","plagiarism","writing"]
     },
     {
@@ -33,7 +35,8 @@
         "description": "Getting started with your dissertation can be a challenge. To help and support you, this guide takes you through the early steps of identifying your research question and objectives.",
         "duration": "20 mins",
         "format": "Interactive guides",
-        "link": "https://www.education.library.manchester.ac.uk/mle/dissertation-topic/",
+        "subformat": "360/storyline",
+        "link": "https://education.library.manchester.ac.uk/mle/dissertation-topic/",
         "tags": ["dissertations","searching"]
     },
     {
@@ -42,7 +45,8 @@
         "description": "Learn how to improve your presentation skills as well as tips for presenting confidently through this interactive guide.",
         "duration": "20 minutes",
         "format": "Interactive guides",
-        "link": "https://www.education.library.manchester.ac.uk/mle/presentations/delivery/",
+        "subformat": "360/storyline",
+        "link": "https://education.library.manchester.ac.uk/mle/presentations/delivery/",
         "tags": ["presentations"]
     },
     {
@@ -51,7 +55,8 @@
         "description": "When presenting, you'll need to consider what to display visually to keep your audience engaged. In this guide, we offer design tips for your presentation and investigate different tools to create visual aids.",
         "duration": "20 minutes",
         "format": "Interactive guides",
-        "link": "https://www.education.library.manchester.ac.uk/mle/presentations/design/",
+        "subformat": "360/storyline",
+        "link": "https://education.library.manchester.ac.uk/mle/presentations/design/",
         "tags": ["presentations"]
     },
     {
@@ -60,6 +65,7 @@
         "description": "This Library support guide is designed to help you assess your current skills and provide the right resources to support your growth. Whether you are looking to enhance your knowledge, develop new competencies, or stay ahead in the digital landscape, here you will find comprehensive tools, guides, and learning materials to assist you in achieving your goals.",
         "duration": "30 minutes",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/digital-capabilities.html",
         "tags": ["digital skills"]
     },
@@ -69,7 +75,8 @@
         "description": "In this guide, you will explore how to develop a strong argument and communicate it effectively, whether in writing or in an oral presentation.",
         "duration": "30 minutes",
         "format": "Interactive guides",
-        "link": "https://www.education.library.manchester.ac.uk/mle/developing-argument/",
+        "subformat": "360/rise",
+        "link": "https://education.library.manchester.ac.uk/mle/developing-argument/",
         "tags": ["being critical","writing"]
     },
     {
@@ -78,6 +85,7 @@
         "description": "The University of Manchester provides students with the opportunity to receive a range of professional Certifications including Microsoft Fundamentals, Office and AI, free of charge. This page contains all of the information you'll need to prepare for and take a certification assessment.",
         "duration": "",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/m365-exams.html",
         "tags": ["digital skills"]
     },
