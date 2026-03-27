@@ -5,6 +5,7 @@
         "description": "This interactive guide will develop your understanding of academic integrity and its role in your studies. We will examine how to avoid key forms of academic malpractice, exploring tools and strategies (including those involving generative artificial intelligence) that can support you.",
         "duration": "20 minutes",
         "format": "Interactive guides",
+        "subformat": "rise",
         "link": "https://www.education.library.manchester.ac.uk/mle/academic-integrity/",
         "tags": ["referencing","plagiarism","writing"]
     },
