@@ -95,6 +95,7 @@
         "description": "Learn the skills you need to identify high-quality information to use in your work through this guide. We explore the process of evaluating the sources you find through your searches, so that you can ensure they're relevant, reliable and intellectually rigorous.",
         "duration": "20 minutes",
         "format": "Interactive guides",
+        "subformat": "360/rise",
         "link": "https://www.education.library.manchester.ac.uk/mle/evaluating-sources/",
         "tags": ["being critical"]
     },
@@ -104,6 +105,7 @@
         "description": "Explore key elements of producing a written report through this interactive guide. Covering structure, purpose, language and referencing, it highlights important considerations to help you write clear and concise reports.",
         "duration": "30 mins",
         "format": "Interactive guides",
+        "subformat": "360/storyline",
         "link": "https://www.education.library.manchester.ac.uk/mle/report-writing/",
         "tags": ["writing"]
     },
@@ -113,6 +115,7 @@
         "description": "Discover what you can find in your subject databases through this interactive guide. We explore why databases are an important research tool and how to select the right databases for your research area.",
         "duration": "10 minutes",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://www.education.library.manchester.ac.uk/mle/introducing-databases",
         "tags": ["searching"]
     },
@@ -122,6 +125,7 @@
         "description": "To improve your approach to academic reading, try the practical strategies covered in this interactive guide. We explore how to locate the most appropriate material for your needs and how to approach your reading systematically.",
         "duration": "35 minutes",
         "format": "Interactive guides",
+        "subformat": "360/rise",
         "link": "https://www.education.library.manchester.ac.uk/mle/reading",
         "tags": ["reading"]
     },
@@ -132,6 +136,7 @@
         "duration": "15 minutes each",
         "format": "Interactive guides",
         "link": "https://www.education.library.manchester.ac.uk/mle/group-work/",
+        "subformat": "360/storyline",
         "tags": ["group work","presentations"]
     },
     {
@@ -140,6 +145,7 @@
         "description": "Here you can find all the Library resources and support for revision and assessment, including skills-practice activities, interactive guides, podcasts, and workshops.",
         "duration": "",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://www.education.library.manchester.ac.uk/mle/packages/assessment-support/",
         "tags": ["revision"]
     },
@@ -149,7 +155,8 @@
         "description": "This set of resources will introduce you to medical and health sciences databases. It will help you with searching, refining and your results as well as accessing further support from experts.",
         "duration": "",
         "format": "Interactive guides",
-        "link": "https://www.education.library.manchester.ac.uk/mle/packages/advanced-searching/",
+        "subformat": "html",
+        "link": "https://www.education.library.manchester.ac.uk/mle/packages/searching/advanced-searching.html",
         "tags": ["searching"]
     },
     {
