@@ -175,6 +175,7 @@
         "description": "Find all the Library resources and support for planning and writing your dissertation here in one place. This guide covers guidance on choosing your topic, carrying out a literature review and referring to other people's ideas in your work.",
         "duration": "",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://education.library.manchester.ac.uk/mle/packages/dissertations/",
         "tags": ["dissertations","writing","searching"]
     },
@@ -184,6 +185,7 @@
         "description": "For all your group work needs, the Library has put together a guide featuring all our resources, including support on getting organised, staying on track, and getting the most out of working with others.",
         "duration": "",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://education.library.manchester.ac.uk/mle/packages/group-work",
         "tags": ["group work","presentations"]
     },
@@ -193,6 +195,7 @@
         "description": "Explore all the Library's resources on presentations, gathered in one place in this guide. Here you can find support on how to plan, design, and deliver presentations with confidence.",
         "duration": "",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://education.library.manchester.ac.uk/mle/packages/presentations/",
         "tags": ["presentations"]
     },
@@ -202,6 +205,7 @@
         "description": "Discover all the resources and support on referencing available to you from the Library through this guide. You can find guidance on how to reference different types of sources, different referencing styles, and using referencing software.",
         "duration": "",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://education.library.manchester.ac.uk/sls/packages/referencing",
         "tags": ["referencing","plagiarism","writing"]
     },
@@ -211,6 +215,7 @@
         "description": "This guide gathers together all the Library's resources and support on searching. This includes guides to help you find high-quality, relevant sources and making the most of advanced searching techniques.",
         "duration": "",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://education.library.manchester.ac.uk/mle/packages/searching",
         "tags": ["searching"]
     },
@@ -220,6 +225,7 @@
         "description": "Discover all the Library resources and support for writing gathered together in this guide. Here you can find workshops, interactive guides, and strategies to help you overcome challenges with writing such as getting started and writer's block.",
         "duration": "",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://education.library.manchester.ac.uk/mle/packages/writing/",
         "tags": ["referencing","plagiarism","writing"]
     },
@@ -229,6 +235,7 @@
         "description": "This Library guide is designed to support your access to LinkedIn Learning, an extensive library of expert-led, online courses that can help you enhance your skills.",
         "duration": "30 minutes",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/linkedin-learning.html",
         "tags": ["digital skills"]
     },
@@ -237,6 +244,7 @@
         "title": "Making the most of academic feedback",
         "description": "Throughout your academic career you will receive a considerable amount of feedback from your tutors and markers. The feedback you receive is one of the most important interactions you will have not only with your tutor, but also with your learning. We have put together this series of guides to help you understand, analyse and act on the feedback you receive.",
         "format": "Interactive guides",
+        "subformat": "360/rise",
         "link": "https://education.library.manchester.ac.uk/mle/feedback/",
         "tags": ["writing","being critical","group work","my future","revision"]
     },
@@ -246,6 +254,7 @@
         "description": "Identify the key concepts and terms you need for your search through this guide. We explore how to locate and search relevant databases for your topic so you can find the information you need.",
         "duration": "20 minutes",
         "format": "Interactive guides",
+        "subformat": "360/rise",
         "link": "https://education.library.manchester.ac.uk/mle/planning-search/",
         "tags": ["searching"]
     },
@@ -255,6 +264,7 @@
         "description": "Supporting you along the key stages in planning to write your dissertation, this guide highlights some useful tools to help you along the way.",
         "duration": "15 minutes",
         "format": "Interactive guides",
+        "subformat": "360/storyline",
         "link": "https://education.library.manchester.ac.uk/mle/dissertation-planning/",
         "tags": ["dissertations","plagiarism","referencing"]
     },
@@ -264,6 +274,7 @@
         "description": "Get to grips with the process of planning your presentation through this interactive guide. We provide useful techniques to ensure your presentation stays focussed and meets the requirements of your task, directly addressing the topic at hand.",
         "duration": "20 minutes",
         "format": "Interactive guides",
+        "subformat": "360/storyline",
         "link": "https://education.library.manchester.ac.uk/mle/presentations/planning/",
         "tags": ["presentations"]
     },
@@ -273,6 +284,7 @@
         "description": "Examining editing and proofreading as different stages of developing your work, this guide takes you through a range of strategies to help you make your work the best it can be.",
         "duration": "15 minutes",
         "format": "Interactive guides",
+        "subformat": "360/storyline",
         "link": "https://education.library.manchester.ac.uk/mle/proofreading/",
         "tags": ["dissertations","writing"]
     },
@@ -282,6 +294,7 @@
         "description": "Understand the principles behind referencing and why it's critical to good academic practice through this interactive guide. We'll also explore how you can use references as evidence for your argument and how to differentiate the ideas of others from your own voice.",
         "duration": " minutes",
         "format": "Interactive guides",
+        "subformat": "360/rise",
         "link": "https://education.library.manchester.ac.uk/mle/referring-to-other-peoples-ideas-in-your-work/",
         "tags": ["referencing","plagiarism","writing"]
     },
@@ -291,6 +304,7 @@
         "description": "Learn strategies you can use to manage your revision effectively at each stage.",
         "duration": "20 minutes",
         "format": "Interactive guides",
+        "subformat": "360/storyline",
         "link": "https://education.library.manchester.ac.uk/mle/revision-strategies/",
         "tags": ["revision"]
     },
@@ -300,7 +314,8 @@
         "description": "Introducing key strategies for refining search results, this guide shows you how to make the most of keyword planning, Boolean operators, and advanced techniques for web and database searches. It also highlights how to evaluate sources for reliability and relevance, helping you to find trustworthy, high-quality information efficiently.",
         "duration": "20 mins",
         "format": "Interactive guides",
-        "link": "https://education.library.manchester.ac.uk/mle/searching-effectively/#/",
+        "subformat": "360/rise",
+        "link": "https://education.library.manchester.ac.uk/mle/searching-effectively/",
         "tags": ["searching"]
     },
     {
@@ -309,6 +324,7 @@
         "description": "Looking for guidance on referencing software, systematic review, business data and statistics? These resources are now available via our new Specialist Library Support pages.",
         "duration": "",
         "format": "Interactive guides",
+        "subformat": "index",
         "link": "https://www.library.manchester.ac.uk/training/specialist-library-support/",
         "tags": ["referencing","plagiarism","searching","writing"]
     },
@@ -318,6 +334,7 @@
         "description": "Mindfulness can have a positive impact on your wellbeing. It can help you face the challenges you'll encounter as a researcher by improving concentration and grounding you in the here and now. This resource will give you an introduction to mindfulness and guide you through various mindfulness practices.",
         "duration": "20 minutes",
         "format": "Interactive guides",
+        "subformat": "sl3/storyline",
         "link": "https://education.library.manchester.ac.uk/mle/counselling/procrastination-strategies/",
         "tags": ["revision","wellbeing"]
     },
@@ -327,6 +344,7 @@
         "description": "Through tips and techniques, this guide supports you in forming a strategic approach to study. By evaluating and growing your understanding of the learning materials you encounter in your studies, you can track and continually improve your learning development.",
         "duration": "15 minutes",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://education.library.manchester.ac.uk/mle/strategic-study/",
         "tags": ["revision","note making","writing"]
     },
@@ -336,6 +354,7 @@
         "description": "Examining note making for different contexts, this guide considers the importance of making notes and organising them for continued use in your learning. We introduce different note making strategies and ways to ensure your notes effectively support your studies.",
         "duration": "15 minutes",
         "format": "Interactive guides",
+        "subformat": "360/storyline",
         "link": "https://education.library.manchester.ac.uk/mle/note-making/",
         "tags": ["revision","note making","writing"]
     },
@@ -345,6 +364,7 @@
         "description": "Interrogate what it means to be critical through this interactive guide. We highlight practical strategies you can use in your academic reading and writing, through which you'll be able to demonstrate the sought-after skill of critical analysis in your assignments.",
         "duration": "15 minutes",
         "format": "Interactive guides",
+        "subformat": "360/storyline",
         "link": "https://education.library.manchester.ac.uk/mle/being-critical/",
         "tags": ["being critical","reading","writing"]
     },
@@ -354,6 +374,7 @@
         "description": "Learn to explore your own procrastination behaviour, and recognise how it is often rooted in certain negative thoughts and emotions.",
         "duration": "20 minutes",
         "format": "Interactive guides",
+        "subformat": "sl3/storyline",
         "link": "https://education.library.manchester.ac.uk/mle/counselling/procrastination-cycle/",
         "tags": ["revision","wellbeing"]
     },
@@ -363,6 +384,7 @@
         "description": "This Library guide explores important considerations when using generative AI, such as academic integrity, referencing, and copyright. For instruction on how to use AI tools themselves, we recommend you explore LinkedIn Learning.",
         "duration": "30 minutes",
         "format": "Interactive guides",
+        "subformat": "html",
         "link": "https://education.library.manchester.ac.uk/digital-skills/digital-skills-support/ai.html",
         "tags": ["digital skills","plagiarism","searching","being critical","referencing"]
     },
@@ -372,6 +394,7 @@
         "description": "Introducing the University's Special Collections, this guide demonstrates their importance in research and how you can use critical analysis to get the most from them.",
         "duration": "15 minutes",
         "format": "Interactive guides",
+        "subformat": "360/rise",
         "link": "https://education.library.manchester.ac.uk/mle/special-collections/",
         "tags": ["being critical","searching"]
     },
@@ -381,6 +404,7 @@
         "description": "Learn about abstracts and how to write one using this interactive guide. We show what an abstract should contain, how it differs from other kinds of writing, and how they vary across different contexts.",
         "duration": "35 minutes",
         "format": "Interactive guides",
+        "subformat": "360/rise",
         "link": "https://education.library.manchester.ac.uk/mle/writing-abstract/",
         "tags": ["writing","dissertations"]
     },
@@ -390,6 +414,7 @@
         "description": "Learn how scientific reports differ from general report writing using this interactive guide. We cover the structure, conventions, and other key elements of reports.",
         "duration": "30 minutes",
         "format": "Interactive guides",
+        "subformat": "360/rise",
         "link": "https://education.library.manchester.ac.uk/mle/report-writing-scientific/",
         "tags": ["writing"]
     },
@@ -399,6 +424,7 @@
         "description": "Explore the purpose and process of writing an essay through this interactive guide. We demonstrate how you can ensure your ideas are coherent and logical, so that every section of your essay supports your argument.",
         "duration": "15 minutes",
         "format": "Interactive guides",
+        "subformat": "360/rise",
         "link": "https://education.library.manchester.ac.uk/mle/writing-essay/",
         "tags": ["writing"]
     },
@@ -408,6 +434,7 @@
         "description": "Explore the purpose and process of writing a literature review through this interactive guide. We demonstrate how to organise your notes, thoughts and ideas in a structured way so that you can group, compare and analyse your research sources.",
         "duration": "20 minutes",
         "format": "Interactive guides",
+        "subformat": "360/rise",
         "link": "https://education.library.manchester.ac.uk/mle/writing-literature-review/#/",
         "tags": ["dissertations","writing"]
     },
@@ -417,6 +444,7 @@
         "description": "You will often be marked on your ability to assess, compare, contrast, critically evaluate and analyse arguments. Accurate referencing will help to make it clear which parts of your writing are based on the work of others and which are your own analysis and evaluation.",
         "duration": "2.19 minutes",
         "format": "Podcast",
+        "subformat": "podcast",
         "link": "https://soundcloud.com/uomlibrary/writing-a-blog-post-for-your-assessment?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fuomlibrary%252Fwriting-a-blog-post-for-your-assessment",
         "tags": ["revision"]
     },
@@ -426,6 +454,7 @@
         "description": "How to add page numbers in Word.",
         "duration": "1.12 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/adding-page-numbers/",
         "tags": ["digital skills","writing","dissertations"]
     },
@@ -435,6 +464,7 @@
         "description": "In this podcast and activity, you will learn how to question your sources. Evaluating your sources is all about asking questions.",
         "duration": "4.27 minutes",
         "format": "Podcast",
+        "subformat": "podcast",
         "link": "https://soundcloud.com/uomlibrary/evaluating-your-sources?si=ecedf7ccd738460c9883f8219e98b13a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         "tags": ["searching"]
     },
@@ -444,6 +474,7 @@
         "description": "A video from the guide to Making the most of academic feedback",
         "duration": "1.03 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/feedback/what-is-feedback/",
         "tags": ["plagiarism","presentations","being critical","group work","revision"]
     },
@@ -453,6 +484,7 @@
         "description": "A video from the guide to Making the most of academic feedback",
         "duration": "2.00 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/feedback/why-feedback-useful/",
         "tags": ["plagiarism","presentations","being critical","group work","revision"]
     },
@@ -462,6 +494,7 @@
         "description": "A video from the guide to Making the most of academic feedback",
         "duration": "0.57 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/feedback/how-feedback-changed-approach/",
         "tags": ["plagiarism","presentations","being critical","group work","revision"]
     },
@@ -471,6 +504,7 @@
         "description": "A video from the guide to Making the most of academic feedback",
         "duration": "0.42 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/feedback/define-process-feedback/",
         "tags": ["plagiarism","presentations","being critical","group work","revision"]
     },
@@ -480,6 +514,7 @@
         "description": "A video from the guide to Making the most of academic feedback",
         "duration": "0.43 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/feedback/how-provide-feedback-individuals/",
         "tags": ["plagiarism","presentations","being critical","group work","revision"]
     },
@@ -489,6 +524,7 @@
         "description": "A video from the guide to Making the most of academic feedback",
         "duration": "0.23 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/feedback/methods-track-progress/",
         "tags": ["plagiarism","presentations","being critical","group work","revision"]
     },
@@ -498,6 +534,7 @@
         "description": "A video from the guide to Making the most of academic feedback",
         "duration": "0.42 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/feedback/analyse-performance/",
         "tags": ["plagiarism","presentations","being critical","group work","revision"]
     },
@@ -507,6 +544,7 @@
         "description": "A video from the guide to Making the most of academic feedback",
         "duration": "3.21 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/feedback/prioritising-feedback/",
         "tags": ["plagiarism","presentations","being critical","group work","revision"]
     },
@@ -516,6 +554,7 @@
         "description": "Feeling nervous about your upcoming viva? This episode breaks down practical strategies to help you prepare with confidence. Discover how to review your work effectively, practise with peers or supervisors, and manage nerves during the conversation.",
         "duration": "1.58 minutes",
         "format": "Podcast",
+        "subformat": "podcast",
         "link": "https://soundcloud.com/uomlibrary/preparing-for-your-viva",
         "tags": ["revision"]
     },
@@ -525,6 +564,7 @@
         "description": "How to use the Know, Want to Know, Learn method in your studies.",
         "duration": "3.50 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/kwl/",
         "tags": ["reading","writing","note making","dissertations","revision"]
     },
@@ -534,6 +574,7 @@
         "description": "How to write a good literature review",
         "duration": "1.29 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/accessing-support-from-the-library/",
         "tags": ["note making","writing","reading","dissertations","revision"]
     },
@@ -543,6 +584,7 @@
         "description": "In this podcast we will introduce you to essay writing and its most common elements.",
         "duration": "1.59 minutes",
         "format": "Podcast",
+        "subformat": "podcast",
         "link": "https://soundcloud.com/uomlibrary/new-assessment-types-3?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fuomlibrary%252Fnew-assessment-types-3",
         "tags": ["writing"]
     },
@@ -552,6 +594,7 @@
         "description": "Referencing is a way of acknowledging the sources you have referred to in your work. Listen to this podcast to learn more.",
         "duration": "1.43 minutes",
         "format": "Podcast",
+        "subformat": "podcast",
         "link": "https://soundcloud.com/uomlibrary/introduction-to-referencing?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fuomlibrary%252Fintroduction-to-referencing3",
         "tags": ["referencing"]
     },
@@ -561,6 +604,7 @@
         "description": "Modes and methods of feedback may be slightly different depending on the context, however the aims of feedback remain largely the same. Watch the video to find out what feedback can look like in a different environments.",
         "duration": "0.42 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/feedback/define-process-feedback/",
         "tags": ["plagiarism","presentations","being critical","group work","revision"]
     },
@@ -570,6 +614,7 @@
         "description": "Providing evidence through clear referencing also demonstrates the breadth and depth of your reading around your topic.",
         "duration": "2.05 minutes",
         "format": "Podcast",
+        "subformat": "podcast",
         "link": "https://soundcloud.com/uomlibrary/new-assessment-types-3?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fuomlibrary%252Fnew-assessment-types-3",
         "tags": ["revision"]
     },
@@ -579,6 +624,7 @@
         "description": "The importance of paraphrasing and summarising",
         "duration": "1.32 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/paraphrasing-and-summarizing/",
         "tags": ["note making","writing","reading","dissertations","revision"]
     },
@@ -588,6 +634,7 @@
         "description": "Providing evidence through clear referencing also demonstrates the breadth and depth of your reading around your topic.",
         "duration": "1.36 minutes",
         "format": "Podcast",
+        "subformat": "podcast",
         "link": "Learn what defines a strong literature review and how to synthesize research, identify gaps, and set the context for your own study. Perfect for students preparing dissertations or research projects.",
         "tags": ["writing","reading","dissertations"]
     },
@@ -597,6 +644,7 @@
         "description": "The importance of paraphrasing and summarizing",
         "duration": "1.32 minutes",
         "format": "Video",
+        "subformat": "video",
         "link": "https://education.library.manchester.ac.uk/videos/paraphrasing-and-summarizing/",
         "tags": ["note making","writing","reading","dissertations","revision"]
     },
@@ -606,6 +654,7 @@
         "description": "By providing accurate references for the sources you use, you can place your writing in the context of work being done on the topic and acknowledge the work done by others. This is key to ensuring others understand your work and in avoiding academic malpractice such as plagiarism.",
         "duration": "2.20 minutes",
         "format": "Podcast",
+        "subformat": "podcast",
         "link": "https://soundcloud.com/uomlibrary/tips-for-presenting-2?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fuomlibrary%252Ftips-for-presenting-2",
         "tags": ["revision"]
     },
@@ -615,6 +664,7 @@
         "description": "Listen to this Student Team top tips podcast to help you managing situations when you are working as part of a group.",
         "duration": "1.49 minutes",
         "format": "Podcast",
+        "subformat": "podcast",
         "link": "https://soundcloud.com/uomlibrary/top-ten-tips-group-work?si=408cdffb37b840ccab99132258e9f3ac&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         "tags": ["presentations","group work"]
     },
@@ -624,6 +674,7 @@
         "description": "Listen to this conversation between student team discussing referencing tips for students.",
         "duration": "6.49 minutes",
         "format": "Podcast",
+        "subformat": "podcast",
         "link": "https://soundcloud.com/uomlibrary/top-10-tips-referencing?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fuomlibrary%252Ftop-10-tips-referencing",
         "tags": ["referencing"]
     },
@@ -633,6 +684,7 @@
         "description": "Writing critically is a skill that requires analysis and discussion of a topic rather than merely description. Listen to find out how to achieve this throughout your studies.",
         "duration": "1.55 minutes",
         "format": "Podcast",
+        "subformat": "podcast",
         "link": "https://soundcloud.com/uomlibrary/writing-critically?si=363c07d1438f4ff0b99dec600d0cb87d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
         "tags": ["writing"]
     }
