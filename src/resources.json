@@ -91,6 +91,15 @@
     },
     {
         "featured": false,
+        "title": "Editing and proofreading",
+        "description": "Examining editing and proofreading as different stages of developing your work, this guide takes you through a range of strategies to help you make your work the best it can be.",
+        "format": "Interactive guides",
+        "subformat": "360/rise",
+        "link": "https://education.library.manchester.ac.uk/mle/proofreading/",
+        "tags": ["dissertations","writing"]
+    },
+    {
+        "featured": false,
         "title": "Evaluating sources of information",
         "description": "Learn the skills you need to identify high-quality information to use in your work through this guide. We explore the process of evaluating the sources you find through your searches, so that you can ensure they're relevant, reliable and intellectually rigorous.",
         "duration": "20 minutes",
@@ -278,16 +287,6 @@
         "link": "https://education.library.manchester.ac.uk/mle/presentations/planning/",
         "tags": ["presentations"]
     },
-    {
-        "featured": false,
-        "title": "Editing and proofreading",
-        "description": "Examining editing and proofreading as different stages of developing your work, this guide takes you through a range of strategies to help you make your work the best it can be.",
-        "duration": "15 minutes",
-        "format": "Interactive guides",
-        "subformat": "360/storyline",
-        "link": "https://education.library.manchester.ac.uk/mle/proofreading/",
-        "tags": ["dissertations","writing"]
-    ,
     {
         "featured": false,
         "title": "Referring to other people's ideas in your work",
