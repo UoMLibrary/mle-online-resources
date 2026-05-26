@@ -280,14 +280,14 @@
     },
     {
         "featured": false,
-        "title": "Proofreading your writing",
+        "title": "Editing and proofreading",
         "description": "Examining editing and proofreading as different stages of developing your work, this guide takes you through a range of strategies to help you make your work the best it can be.",
         "duration": "15 minutes",
         "format": "Interactive guides",
         "subformat": "360/storyline",
         "link": "https://education.library.manchester.ac.uk/mle/proofreading/",
         "tags": ["dissertations","writing"]
-    },
+    ,
     {
         "featured": false,
         "title": "Referring to other people's ideas in your work",
