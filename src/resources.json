@@ -98,6 +98,16 @@
         "link": "https://education.library.manchester.ac.uk/mle/evaluating-sources/",
         "tags": ["being critical"]
     },
+     {
+        "featured": false,
+        "title": "Get started with Copilot Chat",
+        "description": "This guide introduces Copilot Chat, exploring how and why you might want to use it at university.",
+        "duration": "15 mins",
+        "format": "Interactive guides",
+        "subformat": "360/rise",
+        "link": "https://education.library.manchester.ac.uk/mle/copilot-chat",
+        "tags": ["digital skills","being critical"]
+    },
     {
         "featured": false,
         "title": "Getting started with report writing",
@@ -346,6 +356,16 @@
         "subformat": "360/storyline",
         "link": "https://education.library.manchester.ac.uk/mle/being-critical/",
         "tags": ["being critical","reading","writing"]
+    },
+     {
+        "featured": false,
+        "title": "Understanding how AI tools might support your learning",
+        "description": "Learn how to use AI in ways that help you develop your understanding, deepen your critical thinking and build confidence in your own abilities.",
+        "duration": "20 minutes",
+        "format": "Interactive guides",
+        "subformat": "360/rise",
+        "link": "https://education.library.manchester.ac.uk/mle/ai-support-learning/",
+        "tags": ["being critical","digital skills"]
     },
     {
         "featured": false,
