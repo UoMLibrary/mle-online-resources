@@ -11,6 +11,16 @@
     },
     {
         "featured": false,
+        "title": "AI tools in assessment",
+        "description": "This interactive guide will help you understand the University's policy on the use of Artificial Intelligence (AI) tools in assessed work. You'll learn where to check what use of AI tools is permitted for your assessments, how and when to reference and acknowledge your use of AI tools and ways to develop confidence in using AI tools responsibly, ethically and with academic integrity.",
+        "duration": "20 minutes",
+        "format": "Interactive guides",
+        "subformat": "360/rise",
+        "link": "https://education.library.manchester.ac.uk/mle/ai-tools-assessment",
+        "tags": ["digital skills","plagiarism","being critical","referencing"]
+    },
+    {
+        "featured": false,
         "title": "All formats guide",
         "description": "This page lists all our online guides with links to both the online interactive version and a downloadable text-only version, which is ideal for printing or for those needing a more accessible version to use with screen readers.",
         "duration": "30 minutes",
