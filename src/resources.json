@@ -171,7 +171,7 @@
     {
         "featured": true,
         "title": "Library support for digital skills",
-        "description": "Identify areas to further develop your digital capabilities through this interactive guide. We cover the digital capabilities framework and how to get started with LinkedIn Learning's suite of expert-led online courses.",
+        "description": "Identify areas to further develop your digital capabilities through this interactive guide. We also cover how and why to think critically about artificial intelligence.",
         "duration": "",
         "format": "Interactive guides",
         "subformat": "html",
@@ -380,7 +380,7 @@
     {
         "featured": false,
         "title": "Using generative AI in your learning",
-        "description": "This Library guide explores important considerations when using generative AI, such as academic integrity, referencing, and copyright. For instruction on how to use AI tools themselves, we recommend you explore LinkedIn Learning.",
+        "description": "This Library guide explores important considerations when using generative AI, such as academic integrity, referencing, and copyright.",
         "duration": "30 minutes",
         "format": "Interactive guides",
         "subformat": "html",
