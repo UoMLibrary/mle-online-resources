@@ -10,7 +10,7 @@
         "tags": ["referencing","plagiarism","writing"]
     },
     {
-        "featured": false,
+        "featured": true,
         "title": "AI tools in assessment",
         "description": "This interactive guide will help you understand the University's policy on the use of Artificial Intelligence (AI) tools in assessed work. You'll learn where to check what use of AI tools is permitted for your assessments, how and when to reference and acknowledge your use of AI tools and ways to develop confidence in using AI tools responsibly, ethically and with academic integrity.",
         "duration": "20 minutes",
@@ -109,7 +109,7 @@
         "tags": ["being critical"]
     },
      {
-        "featured": false,
+        "featured": true,
         "title": "Get started with Copilot Chat",
         "description": "This guide introduces Copilot Chat, exploring how and why you might want to use it at university.",
         "duration": "15 mins",
@@ -239,7 +239,7 @@
         "tags": ["searching"]
     },
     {
-        "featured": true,
+        "featured": false,
         "title": "Library support for writing",
         "description": "Discover all the Library resources and support for writing gathered together in this guide. Here you can find workshops, interactive guides, and strategies to help you overcome challenges with writing such as getting started and writer's block.",
         "duration": "",
@@ -368,7 +368,7 @@
         "tags": ["being critical","reading","writing"]
     },
      {
-        "featured": false,
+        "featured": true,
         "title": "Understanding how AI tools might support your learning",
         "description": "Learn how to use AI in ways that help you develop your understanding, deepen your critical thinking and build confidence in your own abilities.",
         "duration": "20 minutes",
