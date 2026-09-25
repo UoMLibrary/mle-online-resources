@@ -39,6 +39,16 @@
         "link": "https://education.library.manchester.ac.uk/mle/avoiding-plagiarism/",
         "tags": ["referencing","plagiarism","writing"]
     },
+        {
+        "featured": true,
+        "title": "Building effective AI habits",
+        "description": "In this interactive guide you'll learn how GenAI tools are developed, form an understanding of ethical issues around AI and identify methods to build effective AI habits.",
+        "duration": "15 minutes",
+        "format": "Interactive guides",
+        "subformat": "360/rise",
+        "link": "https://education.library.manchester.ac.uk/mle/effective-ai-habits",
+        "tags": ["digital skills","being critical"]
+    },
     {
         "featured": false,
         "title": "Choosing your dissertation topic",
